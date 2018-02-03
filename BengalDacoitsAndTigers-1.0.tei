@@ -1,0 +1,904 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en-UK>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Bengal Dacoits and Tigers</title>
+<author key="Sunity Devi, Maharani of Cooch Behar" ref="https://viaf.org/viaf/57046414/">Sunity Devi (1864&ndash;1932)</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGclearance>gbn0401102252</idno>
+<idno type=PGDPProjectId>projectID401bde3d77acc</idno>
+<idno type=epub-id>urn:uuid:5b80465f-d5de-4d75-b9f2-726c86f281c0</idno>
+<idno type=PGSrc>10928-Devi-Bengal-Dacoits-and-Tigers</idno>
+<idno type=PGnum>10928</idno>
+<date>2004-02-01</date>
+<availability>
+<p>&availability.en;
+
+<p>Produced by Jeroen Hellingman and the Distributed Proofreading Team from page images provided by the <xref url="http://www.archive.org/details/BengalDacoitsAndTigers">Million Books Project</xref>.
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Maharanee Sunity Devee</author>
+<title>Bengal Dacoits and Tigers</title>
+<edition>-</edition>
+<publisher>Thacker, Spink &amp; Co.</publisher>
+<pubPlace>Calcutta</pubPlace>
+<date>1916</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en-UK>U.K. English.</language>
+    </langUsage>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2004-02-03 Added TEI tagging.
+        <item>2010-01-16 Revisited.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
+<titlePage>
+<docTitle><titlePart>Bengal Dacoits and Tigers</titlePart></docTitle>
+
+<byLine>by
+
+<lb><docAuthor>Maharanee Sunity Devee, C.I.<docAuthor>
+<lb>of Cooch Behar
+</byline>
+
+<docImprint>Calcutta:
+<lb>Thacker, Spink &amp; Co.
+<lb><docDate>1916</docDate>
+</docImprint>
+</titlePage>
+
+
+
+<pb>
+<div1 id=imprint type=Imprint>
+
+
+<p rend="align(center) font-size(small)">Printed by N. Mukherjee, B.A., at the Art Press, 1, Wellington Square, Calcutta
+
+
+
+<pb n=i>
+<div1 id=toc type=Contents>
+<head>Contents</head>
+
+<p><hi>Dacoit Stories</hi>
+
+<list>
+<item><ref target=ch01>The Jhee&apos;s Discovery</ref>   <ab type=tocPageNum>1</ab>
+<item><ref target=ch02>Trapped by a Cobra</ref>   <ab type=tocPageNum>12</ab>
+<item><ref target=ch03>Saved by a Bear</ref>   <ab type=tocPageNum>20</ab>
+<item><ref target=ch04>Raghu Dacoit</ref>   <ab type=tocPageNum>25</ab>
+<item><ref target=ch05>Girl as Kali-Ma</ref>   <ab type=tocPageNum>28</ab>
+<item><ref target=ch06>The Deputy Magistrate</ref>   <ab type=tocPageNum>32</ab>
+<item><ref target=ch07>All for Nothing</ref>   <ab type=tocPageNum>40</ab>
+<item><ref target=ch08>A Punjabee Dacoit</ref>   <ab type=tocPageNum>44</ab>
+<item><ref target=ch09>A Child&apos;s Experience</ref>   <ab type=tocPageNum>48</ab>
+<item><ref target=ch10>Two Chinese Dacoits</ref>   <ab type=tocPageNum>53</ab>
+<item><ref target=ch11>An Unfaithful Servant</ref>   <ab type=tocPageNum>59</ab>
+</list>
+
+<p><hi>Tiger Stories</hi>
+
+<list>
+<item><ref target=ch12>The Bearer&apos;s Fate</ref>   <ab type=tocPageNum>67</ab>
+<item><ref target=ch13>Through the Roof</ref>   <ab type=tocPageNum>71</ab>
+<item><ref target=ch14>Earning the Reward</ref>   <ab type=tocPageNum>75</ab>
+<pb n=ii><item><ref target=ch15>A Burmese Monster</ref>   <ab type=tocPageNum>79</ab>
+<item><ref target=ch16>The Palki and the Tiger</ref>   <ab type=tocPageNum>82</ab>
+<item><ref target=ch17>An Assam Adventure</ref>   <ab type=tocPageNum>88</ab>
+<item><ref target=ch18>A Thrilling Story</ref>   <ab type=tocPageNum>91</ab>
+<item><ref target=ch19>A Cachar Tiger</ref>   <ab type=tocPageNum>95</ab>
+<item><ref target=ch20>A Maharajah&apos;s Adventures</ref>   <ab type=tocPageNum>101</ab>
+</list>
+
+
+
+
+<pb>
+</front>
+<body>
+<div0 id=pt1 type=Part n=I>
+<head>Dacoit Stories</head>
+
+
+
+<pb n=1>
+<div1 id=ch01 type=Chapter>
+<head>The Jhee&apos;s Discovery</head>
+
+<p>It was the month of <hi>Jaishta</hi> (May-June) in Bengal, and the earth languished under the scorching rays of the sun and sent up a voiceless prayer to the Rain God to come soon and refresh the fields and jungles with the welcome <hi>&ldquo;barsat&rdquo;</hi> (rainy season).
+
+<p>Yet, in spite of the intense heat, a young and delicately nurtured Bengali lady was travelling. She was on her way to pay a visit to her parents-in-law, for after marriage the bride returns to her childhood&apos;s home and remains there, paying visits from time to time to her husband&apos;s home until the day comes when she goes to live there.
+
+<p>It is a Bengali custom that ladies, especially young ladies, must always wear their jewellery, even when travelling. Arms, wrists, neck and ankles, bare of jewels, are a sign of widowhood or dire poverty. Out young heroine was accordingly adorned with jewels and she was also richly attired. Was she not the daughter of a wealthy man and going to visit her mother-in-law? So her mother had lovingly dressed her in an exquisite gold-embroidered <pb n=2>Benares silk <hi>saree</hi> of finest texture and superb workmanship, and the jewellery, which adorned her graceful arms, neck and ankles, was in keeping with the richness of her costume.
+
+<p>Twelve bearers took turns in carrying the covered palanquin or <hi>palki</hi> in which she travelled. They had been in her father&apos;s service for many years and were known, to be trustworthy. A faithful <hi>jhee</hi> (maid) accompanied her, sometimes walking beside the <hi>palki</hi> and at other times sitting within, to fan her young mistress and help to enliven the weary journey with tales of former travels. Two men-servants, whom in Bengal we call <hi>durwans</hi> and who are permitted to bear arms in defence of their masters&apos; goods, completed the party. One of them walked on either side of the <hi>palanquin</hi> and each carried a naked sword in his hand. These two men were tried and trusted retainers of the young lady&apos;s father, and were prepared to defend their master&apos;s daughter even at the cost of their lives.
+
+<p>The route lay through a lonely country district with stretches of rice-fields scattered between, and villages nestling here and there among groves of trees. At. one of these villages the party halted <pb n=3>awhile for rest and refreshment, and then on again in the fierce heat of a close Indian day.
+
+<p>Thus many miles had been passed; and the evening shades were beginning to cool the wearisome day, when the travellers drew near to a group of trees not far from a small tank (artificial lake). The <hi>palki</hi>-bearers sighted this ideal resting-place and asked the <hi>jhee</hi> to inform their young mistress of it, and beseech that they might stop there and refresh themselves with a draught of water, after which they would be able to travel still faster,
+
+<p>A gracious consent was readily given by the fair one within the <hi>palanquin</hi>. She had found the heat almost beyond endurance, and pitied the bearers who had the weight of her <hi>palki</hi> and herself added to their sufferings.
+
+<p>The <hi>palanquin</hi> was gently set down under a large and shady tree, and the <hi>durwans</hi> respectfully withdrew a little distance to permit of the <hi>jhee</hi> raising the covering, so that their kind mistress might also enjoy the grateful shade and coolness of the grove.
+
+<p>The spot was lonely and their responsibility great, so the men decided among themselves that they should divide into two parties. Six should <pb n=4>remain with the guard to protect their fair charge in case of any untoward happening while the other six refreshed themselves at the lake.
+
+<p>This plan was no sooner agreed upon than the first six trooped off gleefully towards the tank. The others stretched themselves in the shade and relaxed their limbs in the interval of waiting.
+
+<p>Time passed unheeded till it dawned upon some of those who waited that they still thirsted and that the first six seemed too long away. They asked the <hi>jhee</hi> to obtain leave for them to go and hurry the others up and refresh themselves at the same time, so that the journey might soon be resumed as the evening sun was nearing the horizon, and if they delayed further night would overtake them. The young lady gave the desired permission and the second six soon disappeared towards the tank. They too were long away!
+
+<p>The <hi>jhee</hi> felt uneasy but kept her fears to herself. Suddenly she too disappeared. Without a word to her mistress she had decided to see what the bearers were doing at the tank. Climbing up a tree, she crept along an overhanging branch and a dreadful sight met her horrified gaze. Some of the bearers lay dead in the shallow water and the <pb n=5>surviving ones were fighting desperately for their lives with a small band of outlaws.
+
+<p>Rushing back to the <hi>palki</hi> with the utmost speed and regardless of onlookers, she flung wide the door, screaming frantically, &ldquo;Dacoits! dacoits! run, <hi>didi</hi> (elder sister), run. With these eyes of mine I saw them. I climbed a tree and saw them. Some of our bearers lie dead and they are killing the others. Fly! fly for your life!&rdquo; With these words she turned and led the way with swiftness impelled by fear.
+
+<p>The lonely occupant of the <hi>palanquin</hi> received the awful tidings with horror and dismay. Often had she heard tales of dacoits and their ruthless deeds. For a fleeting instant the thought, that she must fall a victim to such desperados, paralysed her with fear; but only for an instant. Her woman&apos;s wit and ingenuity moved her to action. Quickly she divested herself of her heavy jewelled anklets. How could she run thus weighted? and might not their value satisfy the greed of the highwaymen? Flinging them down in the <hi>palanquin</hi>, she hastily closed the doors and dropped the covering over its sides. Let them think she was within. The search of the <hi>palki</hi> would delay them awhile.
+
+<pb n=6><p>Then tucking up her rich <hi>satee</hi> she too started to run for her life. She had gone but a few steps when the voices of the two <hi>durwans</hi> arrested her. They had heard the <hi>jhee&apos;s</hi> distracted cry, and their only thought was for their young mistress.
+
+<p><hi>&ldquo;Didi,&rdquo;</hi> they said, addressing her affectionately and respectfully by the endearing name of sister, which is a custom permitted in Bengal to the servants of every household. In the home of her girlhood a girl is addressed as <hi>&ldquo;didi&rdquo;</hi> (sister) and in her father-in-law&apos;s house as <hi>&ldquo;bow&rdquo;</hi> (son&apos;s wife). Sons of the family are addressed as <hi>&ldquo;dada&rdquo;</hi> (brother, strictly elder brother) and sons-in-law as <hi>&ldquo;jamai&rdquo;.</hi>
+
+<p>&ldquo;<hi>Didi,</hi> fear not! As long as there is breath in these bodies we will defend you. If the dacoits overtake us, we will guard you. No harm shall come to you.&rdquo;
+
+<p>Encouraged by their presence and words, the girl made all possible speed. But her delicate feet were unused to rough, hard roads, and, despite her will and brave efforts, she tripped and stumbled continually. In Bengal, in the hot dry weather, the country roads are difficult to traverse. The deep ruts of the rainy season dry up and the once muddy <pb n=7>earth crumbles into thick heavy dust, into which the feet of the wayfarers sink. Fast travelling is difficult even for those who are used to journeying, so the poor young lady made little headway and was soon overtaken by her pursuers. They had not been long in discovering her flight and were soon racing after her from under the tree. As she ran she heard their shouts, and then realised that they had caught up with her guard who were resisting them.
+
+<p>The poor girl ran on and on alone, and presently saw a tiny hamlet hidden among some trees. She made for this as fast as her trembling limbs could carry her and rushed breathlessly into a small red brick-house, the door of which stood slightly ajar, crying: &ldquo;Shut the door! Dacoits are following me!&rdquo; Then, overcome with fear and exhaustion, she sank unconscious upon the floor.
+
+<p>The ladies of the little household ran forward on hearing her cry and shut the door promptly. Dacoits were known and feared everywhere. Then they tenderly ministered to the stranger. As soon as she recovered her senses, she related to them what had befallen her and implored their protection.
+
+<p>The master of the house immediately despatched <pb n=8>a messenger to a distant police outpost for aid. Soothed and comforted, the girl eagerly hoped and prayed for the arrival of her attendants.
+
+<p>After some time, word was brought in that a <hi>palki</hi> was approaching. Even in the dark the approach of a <hi>palki</hi> is made known by the rhythmic cries of the bearers. Soon it arrived in front of the red brick-house and the bearers, halting, asked loudly if a strange lady, richly attired and decked with jewels, was within. From an upper window the master of the house answered them, while the girl and her kindly hostess listened anxiously downstairs. The pseudo <hi>palki</hi>-bearers next informed the listeners that they were the servants of a very wealthy man and had been conveying his daughter to her parents-in-law&apos;s house.
+
+<p>&ldquo;But&rdquo; they boldly declared, &ldquo;our master&apos;s daughter is such a troublesome girl. She causes us much anxiety whenever she is sent to visit her mother-in-law. She is so unwilling to go that it is with great difficulty that we get her safely there.&rdquo;
+
+<p>The anxious listeners within felt sure these were the dacoits and longed for the arrival of the police. The disguised thieves persisted in their questioning for some time in spite of the house <pb n=9>master&apos;s repeated advice that they had better search elsewhere. At last they departed carrying the <hi>palki</hi> with them. And the dwellers in the red brick-house breathed more freely. But not for long.
+
+<p>The village was a tiny one and the pretended bearers soon returned from their search. Planting the <hi>palki</hi> in the doorway, they shouted: &ldquo;We know for certain that our mistress is hiding somewhere. We feel sure she is in your house. Here we will sit till you send her forth.&rdquo;
+
+<p>On hearing these words the poor pursued girl fell at the feet of her host, calling herself his daughter and addressing him as &ldquo;father&rdquo;, and implored of him not to give her up to these awful dacoits. The good man assured her of his protection while his wife raised her from the floor, and, embracing her, said they would all sooner suffer death than give her up.
+
+<p>The trying hours dragged on till past midnight. Then the dacoits announced that the lady must be produced or they would force an entrance into the house. No reply was given to this ultimatum. The highwaymen waited awhile and then assailed the door with heavy blows.
+
+<pb n=10><p>The distraught girl besought her hostess to take her jewels and hand them out to the burglars and thus ensure peace and safety for all. The mistress of the house declared this would not satisfy the ruffians and once more assured her guest that, whatever happened, they would strive to protect her.
+
+<p>Presently the door gave way and, with coarse oaths and triumphant threats, the dacoits entered. But unknown to them,&mdash;so busy had they been hammering and swearing,&mdash;the police had arrived and now followed in on their heels. The dacoits were all captured and confessed their guilt as to the murder of the <hi>palki</hi>-bearers and the probable death of the two <hi>durwans</hi>, who, they averred, had fought like tigers.
+
+<p>The bodies of these two devoted servants were found, all battered and bruised, on the roadside and were given honourable cremation by their master, whose daughter they had saved by their devotion.
+
+<p>The <hi>jhee</hi> was found close to the spot, hiding among the branches of a tree. She had witnessed the fight between the <hi>durwans</hi> and dacoits and the flight and pursuit of her mistress. When both reached home again, the <hi>jhee</hi> filled up dull hours with vivid accounts of their adventure.
+
+<pb n=11>This little story is a true one and shows how difficult and dangerous travel was in the old days in Bengal. Travelling by <hi>palki</hi> is now in many parts a thing of the past, for the whole Province is being linked together by a network of railways. Good roads and better police arrangements also lessen the terrors of travelling in places where railways are still wanting.
+
+
+
+
+<pb n=12>
+<div1 id=ch02>
+<head>Trapped by a Cobra</head>
+
+<p>Not many years ago a young married lady was journeying alone.
+
+<p>It is not customary in India for young women, even if married, to go out by themselves. The <hi>purdah</hi> system unfits them for independence. Even when going for a short distance by <hi>palanquin</hi> or just for a carriage drive, a chaperon is necessary.
+
+<p>Yet occasions arise when it is imperative that they should journey, but no suitable escort can be found or spared for the purpose. They are then obliged to go with servants. It may seem strange that young ladies should be permitted to travel alone with servants. But readers who know India will not be surprised, for Indians treat their servants after the patriarchal system, especially those who have served the family for generations. Even hired attendants, like the driver in this story, are thoroughly trusted when known to the family.
+
+<p>The young lady was on her way to visit her father and mother. Indian parents-in-law cannot visit at the parental home of their daughter-in-law. <pb n=13>Therefore <hi>bow-ma</hi> journeyed alone with her little son, a child of about five years of age.
+
+<p>The distance was not a long one, only from Calcutta to Durgapore, a village a few miles away from the city. So a hackney-carriage was hired with a driver who had often before been employed by her father-in-law, and everyone felt assured <hi>bow-ma</hi> would reach her destination safely.
+
+<p>Her mother-in-law saw her into the carriage. Her little boy was lifted up beside her, and, with many injunctions to drive carefully and with speed ringing in his ears, the driver whipped up his horses and they were off.
+
+<p><hi>Bow-ma</hi> knew the road well. Often had she journeyed to and fro in the early years of her married life, and even after the birth of her little son her visits to her parents had been frequent.
+
+<p>The carriage was close and her heavy silken <hi>saree</hi> hot to wear, so she opened the venetians and lazily watched the familiar landmarks as they passed. She had started early so that the journey should be accomplished in day-light, and still they did not reach home. She noted the various trees and hedges and was puzzled. Surely, the road seemed different. The sun, a ball of golden fire, <pb n=14>sank to rest in a bed of many-tinted clouds, and still they had not arrived. <hi>Bow-ma</hi> felt strangely anxious.
+
+<p>The carriage suddenly swerved. To her dismay she saw they had turned into a rough and untravelled road with paddy-fields on either side. The place seemed lonely. It was now rapidly growing dark, for in India after sun-set Night does not long delay her coming. A presentiment of evil clutched <hi>bow-ma&apos;s</hi> heart. She whispered to her little boy to ask the driver where they were and when they should arrive. In India it is not permitted a woman to address any man save her husband, father, and brothers.
+
+<p>The child obeyed but the driver made no reply. &ldquo;Ask again,&rdquo; whispered the mother, &ldquo;he has not heard you.&rdquo;
+
+<p>The boy asked, &ldquo;When shall we arrive?&rdquo; again and again, but not a word answered the driver.
+
+<p><hi>Bow-ma</hi>, now thoroughly alarmed, beat the shutters of the carriage and commanded her son to shout loudly. The boy screamed at the top of his voice, &ldquo;Why don&apos;t you reply? What road is this?&rdquo;
+
+<pb n=15><p>The driver now answered disrespectfully: &ldquo;You will soon know where you are going,&rdquo; and laughed.
+
+<p>His rude gruff tone and evasive answer confirmed <hi>bow-ma&apos;s</hi> worst fears. The awful word <hi>dacoits</hi> stood out in her mind in letters of fire. Horror and dread filled her soul. Drawing her child towards her, she hushed his eager questioning and waited in silent anguish for the coming danger.
+
+<p>The carriage bumped and rattled over the uneven road. Presently it stopped. It was now almost dark. The door was jerked open and a harsh voice commanded: &ldquo;Get out of the carriage.&rdquo; <hi>Bow-ma</hi> recognised the driver&apos;s voice and, realising the futility of objecting, without a word she stepped down and helped her little son to alight.
+
+<p>&ldquo;Follow me&rdquo; was the next rough order. Again she silently obeyed. The man left the road and led her a little distance away under the shadow of some trees. &ldquo;Take off your jewels. Give them to me.&rdquo; A faint sigh of relief escaped her. Perhaps the jewels were all he wanted. Quickly she unclasped her handsome necklet and gave it him. He grasped it greedily with one hand and extended the other for more. One by one she stripped her <pb n=16>wrists and arms of their lovely bracelets and bangles and handed them to him. &ldquo;More&rdquo; he growled. She pulled the rings from her fingers and added to them her ear and nose rings. &ldquo;Your waist chain&rdquo; he snapped. She unclasped and dropped its golden weight into those greedy hands. &ldquo;Take off your anklets, I want all&rdquo; he sneered. She knelt on the ground to unclasp them. Then, rising, handed them to him, wondering what more would follow.
+
+<p>Meanwhile the child wept bitterly, and angrily forbade the driver to take his mother&apos;s jewels, calling him robber and thief. &ldquo;Yes, dacoit I am,&rdquo; the scoundrel replied to the boy&apos;s revilings, &ldquo;and if you will not be quiet, I will teach you how to.&rdquo; <hi>Bow-ma</hi> gently strove to console and silence her son. &ldquo;Fret not! Your father will give me more and better jewels.&rdquo;
+
+<p>&ldquo;Take off your <hi>saree</hi>&rdquo; was the next outrageous command. The boy&apos;s indignation flamed afresh. His mother took an unguarded step forward and asked: &ldquo;Are not my jewels enough that you want the <hi>saree</hi> off my back?&rdquo;
+
+<p>&ldquo;Aye, your <hi>saree</hi> and all you have. Silence your child or I will kill him.&rdquo; Terrible was the <pb n=17>harsh voice in its determination. <hi>Bow-ma&apos;s</hi> heart stood still. Entreaty would be of no avail. She unwound the richly-embroidered silken folds from about her and cast the gold and green <hi>saree</hi> at his feet: &ldquo;Take it.&rdquo;
+
+<p>&ldquo;You have stripped my mother,&rdquo; screamed the boy. The ruffian caught the <hi>saree</hi> with a fearful oath and turning on him said: &ldquo;Now I can deal with you. I will fetch a brick from yonder kiln and pound the breath out of you,&rdquo; With these words he strode forward, tying the jewels in the <hi>saree</hi> as he went. Now her sorely-tried nerves gave way, and, distracted with grief, <hi>bow-ma</hi> caught her child in her arms, and their mingled cries rent the air. But the thief did not return.
+
+<p>About midnight a village policeman going his rounds heard their cries. At first he paid no heed to them: jackals swarmed and disturbed the night. Again the anguished voices quivered in the air. There was something human in the sound. He stopped to listen. The cries rose again. He walked forward in their direction. Clearer, as he advanced, shrilled the distressed voices, and he recognised they were those of a woman and a child. He quickened his steps and hastened to the spot. <pb n=18>The light from his lantern revealed <hi>bow-ma</hi> and her son, clinging to each other and weeping piteously.
+
+<p>&ldquo;Who are you? What ails you?&rdquo; he asked. The distraught mother, unconscious of the flight of time, thinking him the heartless dacoit returned to kill her boy, fell at his feet in an agony of supplication: &ldquo;Spare my son. Take my life instead.&rdquo;
+
+<p>&ldquo;I am a <hi>chowkidar</hi> (watchman). What is up?&rdquo; But so dulled were her ears with fear and grief that he was twice obliged to repeat his words. When the joyful intelligence reached her brain she burst into tears. &ldquo;O! save my son.&rdquo; Then the consciousness that the danger was past reminded her of her own plight, and she sobbed: &ldquo;Give me something to wear.&rdquo;
+
+<p>The policeman had noticed her semi-nude state. Dropping, his <hi>pugree</hi> at her feet he turned away. She shook out its many folds and draped it about her body. Then she related what had befallen her and pointed towards the direction the thief had taken.
+
+<p>The policeman walked cautiously forward, his lantern raised in one hand and his <hi>lathi</hi> tightly <pb n=19>grasped in the other. A few yards ahead he came to an old brick kiln. Here, prone among the broken bricks, lay the robber in greater straits than his victims. A huge cobra was tightly coiled round his right arm, while on the left hung the <hi>saree</hi> and the jewels. The rays of the lantern disturbed the snake. With an angry hiss it uncoiled itself and disappeared. The dacoit, more dead than alive from simple fear of the snake&apos;s fatal sting, yielded himself a prisoner, and it was subsequently discovered that the whole gang, of whom he was a member, were licensed hackney drivers.
+
+
+
+
+<pb n=20>
+<div1 id=ch03>
+<head>Saved by a Bear</head>
+
+<p>The evening shadows and silence had settled on the river Hooghly as an old Brahman wended his way to one of the many <hi>ghats</hi> (landing places).
+
+<p>The <hi>dinghis</hi>&mdash;little boats which ply backwards and forwards all day carrying passengers to and from Calcutta&mdash;had all been made fast for the night. Some of the boatmen were cooking their evening meal, while others sat about on the decks smoking and singing. Many of the boats were wedged close together and drawn up on to the bank.
+
+<p>But one lay well in the water and some distance from its fellow-craft. Its <hi>manjhi</hi> (headman) stood on the stern deck, binding together the mat roof of his boat. His seemingly careless gaze took in the Brahman, about to descend the bank. He noted that the old man carried a parcel, partially concealed in his <hi>chadar</hi> (scarf), and, from the manner in which he hugged it, the observer concluded it contained something valuable. As the Brahman came nearer, the <hi>manjhi</hi> saw it was a bag of money.
+
+<p>The old man picked his way down the bank and called upon boat after boat to take him to a <pb n=21>small village near Serampore, for in those days there was no railway. None were willing to go so far. Meanwhile a whispered consultation had taken place between the <hi>manjhi</hi> and <hi>dhars</hi> (oarsmen) of the furthest <hi>dinghi</hi>. When the Brahman finally accosted them, they first demurred and then, as though still reluctant, consented to hire their boat.
+
+<p>Just as they were pushing off, a man with a performing bear ran down the bank. &ldquo;Where goest thou?&rdquo; he asked.
+
+<p>&ldquo;Serampore&rdquo; answered the Brahman before the boatman could reply.
+
+<p>&ldquo;My home is near by,&rdquo; the man remarked gladly, and jumped into the boat, pulling his bear after him.
+
+<p>The boatmen scowled angrily: &ldquo;Get out, we go not so far.&rdquo; But he would not. The <hi>manjhi</hi> warned him that he and his bear would gain nothing by forcing themselves into the boat.
+
+<p>&ldquo;These boatmen are queer customers,&rdquo; he laughingly remarked to the Brahman, and to them: &ldquo;Gain nothing! Why! I will reach my home.&rdquo;
+
+<p>&ldquo;So you say,&rdquo; they answered.
+
+<pb n=22><p>The bear-man wondered within himself at their unwillingness to have him as a passenger. He and the old Brahman made a few remarks to each other. Then they fell silent.
+
+<p>They were near the end of their journey when the bear-man asked suddenly: &ldquo;<hi>Manjhi</hi>, have we not passed Serampore?&rdquo;
+
+<p>&ldquo;Are you the <hi>guru</hi> of boatmen that you question me?&rdquo; replied the <hi>manjhi</hi>, and then, in a more conciliatory tone, added: &ldquo;We are going higher up for a crossing. The tide is strong.&rdquo; The explanation was reasonable. But the bear-man&apos;s suspicions had been awakened and he was on the alert. The Brahman sat placidly nursing his bag which the bear-man too had noticed contained money. He had also noticed that the <hi>manjhis</hi> kept glancing furtively at it and its owner.
+
+<p>The river crossed, the boat hugged the bank; after a time it came to a standstill. One of the <hi>manjhis</hi> jumped ashore with the rope and secured it to a tree. The Brahman and the bear-man both asked: &ldquo;What is wrong? Why stop the boat in this strange place?&rdquo;
+
+<p>&ldquo;You will soon know, you will soon see,&rdquo; answered the boatmen and chuckled over some <pb n=23>secret joke as, one after another, each stepped ashore and disappeared.
+
+<p>The aged Brahman gazed after them apprehensively. Then, placing his money between his knees, as he sat on the deck with crossed legs tucked under him, he folded his hands together and bent forward in prayer.
+
+<p>The bear-man thought within himself: &ldquo;Prayer for him, action for me.&rdquo; And saying softly to the old man; <hi>&ldquo;Brahman Thakoor</hi>, something is brewing. I follow to see,&rdquo; he too stepped ashore.
+
+<p>Not far from the tree he found a small thatched house and several men gathered behind it. Moving warily forward among the group he recognised the <hi>manjhis.</hi> &ldquo;Dacoits!&rdquo; he whispered to himself. Then an inspiration struck him.
+
+<p>He ran back to the boat, and asked the Brahman to change his seat to the stern and be ready to steer off when he gave him a signal. He took up a position in the prow and fondled his bear.
+
+<p>Within a few minutes a party of men appeared coming towards the <hi>dinghi</hi>. Some were boatmen; all were dacoits.
+
+<p>The actor loosed the bear&apos;s chain, saying: &ldquo;Go! go! hug the life out of all of them!&rdquo;
+
+<pb n=24><p>The sagacious animal responded to his master&apos;s order with a fierce charge right among the approaching band of robbers. With startled cries they fled in all directions. Quite sure they were effectively scattered, the bear-man called his animal back, secured its chain once more, and pushed from the shore.
+
+<p>With some difficulty he and the old Brahman navigated themselves back to Calcutta and informed the police authorities there. The police took possession of the <hi>dinghi</hi> which on inspection proved to be a dacoit&apos;s nest well-equipped with instruments fitted for murder and robbery. But none of this gang of river dacoits were captured.
+
+<p>The lives of the Brahman and the showman were certainly saved by the wonderful intelligence of the latter&apos;s bear.
+
+
+
+
+<pb n=25>
+<div1 id=ch04>
+<head>Raghu Dacoit</head>
+
+<p>Madhub Babu, a Calcutta gentleman, owned much property in that city and was known far and wide on account of his great wealth. To do him honour, the City Fathers had named a tank after him.
+
+<p>At that time there flourished a notorious dacoit, Raghu, for whose capture Government had offered a handsome reward. But like Robin Hood of old, Raghu Dacoit had caught popular fancy by his generosity to the poor. Though he looted the rich, to the needy, the famine-stricken and widows he was always kind. No one would inform against him.
+
+<p>Madhub Babu had a fine country house in Chandernagore, where he frequently entertained his friends. On one of these occasions, the latest doings of Raghu Dacoit were being discussed. The Babu remarked confidently: &ldquo;He dare not visit me. He knows my house is well guarded.&rdquo;
+
+<p>One of the guests quickly rejoined: &ldquo;Oh, don&apos;t say that. Raghu Dacoit is a dangerous and clever man.&rdquo;
+
+<pb n=26><p>A few days after, Madhub Babu received a letter from the famous outlaw saying that he would be pleased to visit the rich man&apos;s country house. Madhub Babu was amazed at the audacity of the fellow, and wondered how his remark had reached the robber&apos;s ears.
+
+<p>He immediately sent information to Calcutta and asked for a strong body of police to be sent at his expense. They arrived, and his country residence was extra well guarded for some time. But nothing happened! Madhub Babu concluded that the letter had been a hoax. So the police guard was withdrawn.
+
+<p>Madhub Babu&apos;s Chandernagore house stood on the bank of the river. One dark night a boat came quietly to the <hi>ghat</hi>. Its occupants silently landed and proceeded stealthily to the house. Every door and window was securely fastened, but what mattered that to Raghu and his band? Tall trees graced the grounds everywhere and many grew near the house. Climbing the nearest, some of the dacoits reached up a long and stout bamboo from it to the flat roof. A slim youth crawled over and fixed the other end securely. Then one by one some of the gang slid across. The door of the <pb n=27>staircase leading down into the house stood open. Creeping like cats downstairs they gained the entrance hall. Here they found all the <hi>durwans</hi> fast asleep. The light of their lanterns showed the <hi>durwans&apos;</hi> swords hanging on the wall. In a trice the dacoits had them down, unsheathed, and, oh, bitter blow! despatched Madhub Babu&apos;s men with their own weapons.
+
+<p>Then noiselessly opening the door they admitted the remainder of the band. For a few hours there was uproar, confusion and dismay while the burglars invaded room after room and collected all Madhub Babu&apos;s treasures with which they disappeared.
+
+<p>While still smarting under the loss of his valuables, the Babu received another letter from Raghu Dacoit asking, &ldquo;Had his visit given Madhub Babu pleasure?&rdquo;
+
+
+
+
+<pb n=28>
+<div1 id=ch05>
+<head>Girl as Kali-Ma</head>
+
+<p>A large and well-to-do family lived happily in a country place in Bengal.
+
+<p>One day their peace was disturbed by an anonymous letter. The writer warned them to expect a &ldquo;dacoity&rdquo; (burglary). These Indian outlaws always make it a point of honour to inform their intended victims, and always come with drums, torch-light and a sort of war-cry.
+
+<p>There was much valuable jewellery in the house and the family, thinking discretion the better part of valour, gathered all together, packed it securely and, taking it with them, left their home about sunset for safe quarters.
+
+<p>Somehow one of the younger ladies with a tiny infant was left behind. Unaware of the warning letter or desertion of the family, she slept peacefully through the early hours of the night. But later, she was awakened by the sound of drums and loud cries, which she recognised as the signal of the dacoits. Rushing out of her chamber she discovered that the burglars were already in the house and that none of the family were to be found. From <pb n=29>room to room she fled, finding none to protect her, and realised that she was alone and helpless. Even her husband was gone!
+
+<p>She was a high-spirited and resourceful girl. She knew her life and the baby&apos;s as well were in danger and she determined to outwit the burglars. She had a swarthy complexion like Kali, the dacoits&apos; divinity. Often had her mother bemoaned its darkness! Now it should serve her. But was she black enough? To make assurance doubly sure, she caught up a bottle of ink, which she knew where to find, and hastily smeared her face and limbs with it. Then, hiding her baby in a safe corner, she uncoiled her heavy hair and let its luxuriant black tresses fall about her like a cloak. Her preparations complete, she placed herself in a large niche at the head of the stairs.
+
+<p>The dacoits found nothing below worth attention and trooped upstairs. The flickering glare of their torches fell upon a life-like image of Kali the Terrible. With protruding scarlet tongue and fixed staring eyes, the girl stood immovable and breathless, silently invoking all her family gods to come to her aid in her bold design.
+
+<p>With an awe-struck cry of &ldquo;Mercy! mercy! <pb n=30>Kali-Ma!&rdquo;, the thieves fell prostrate at her feet. The girl held her breath. Was it possible that her plan had succeeded? The slow seconds passed. The Chief arose. &ldquo;Come, brothers, we touch nothing where Mother Kali is worshipped.&rdquo; With hasty and reverent steps they descended the stairs and left the house.
+
+<p>Long after the dacoits had gone the girl stood there. Then the strain snapped and she relapsed to her normal self. Fear swept over her and she rushed out of the house. But her trembling limbs could not carry her far. She fell in a dead faint on the pathway. The neighbours, who had heard the dacoits enter the house and seen them go away silent and empty-handed, came to learn the mystery and found her there.
+
+<p>When the family returned next morning, the neighbours abused them soundly for leaving the girl and her babe behind. The girl herself was so hurt by the neglect that she had scarcely strength enough to relate the strange happenings of the night. Her husband found it difficult to make his peace; he said that he believed her to be with the ladies of the family. In zenana families even the most devoted husband has little voice in his wife&apos;s <pb n=31>movements, as all arrangements are left in the hands of the mother-in-law. There were several ladies and children in the family and the mother-in-law had thought the girl was with some of them. Friendship was however finally restored. All generously admired her ingenuity and realised her bravery. From the white-haired old father to the smallest child, everyone was grateful then and always after for her presence of mind on that memorable night.
+
+
+
+
+<pb n=32>
+<div1 id=ch06>
+<head>The Deputy Magistrate</head>
+
+<p>In the Dacca district, a few years ago, there was a big dacoity. A Deputy Magistrate was ordered to secretly investigate the matter and, if possible, to capture the miscreants.
+
+<p>Besides his cook and personal attendants he took with him some policemen. All were disguised. They travelled in several small boats.
+
+<p>It was late in the evening as they neared the place, where the burglary had occurred. He decided to proceed no further that night. The boats put to; the men cooked their evening meal and all retired.
+
+<p>About midnight, the Magistrate awoke with a start to hear many voices calling him by name. He listened: &ldquo;So you have come to arrest us, to put us in jail, to hang us. Ah! you will soon see who will be punished. We shall know how clever you are!&rdquo;
+
+<p>The night was pitch-dark. He noiselessly opened the small window of the boat and saw a number of men, with flaming torches in their hands and armed with heavy sticks, coming down the <pb n=33>bank. There was no time to call his men. He seized his loaded revolver. But what was one against so many! He decided to bolt. The land way was barred by the dacoits. What of the river? He was a good swimmer. But the water looked black as ink and swarmed with crocodiles. Yet to stay in the boat meant certain death. If he gained the opposite bank, he could make for his father-in-law&apos;s house, which was near the river and where his wife was then staying. He might escape the crocodiles. He determined to risk it.
+
+<p>Like a flash all this passed through his mind. Opening the other window he clambered out stealthily and slipped into the water. A few powerful strokes carried him across. He stumbled up the bank and raced through the thorny jungle to his father-in-law&apos;s house.
+
+<p>The sleeping family were disturbed by his violent knocking. As soon as he was admitted, he went to his wife&apos;s room. She was horrified to hear of his danger. After a hasty bath and change she insisted that he should eat something, and while he was refreshing himself, she informed her father of his son-in-law&apos;s escape and predicament. To her surprise, her father said: &ldquo;I am sorry, but he <pb n=34>must leave my house.&rdquo;
+
+<p>&ldquo;O! father, how can he?&rdquo; she pleaded.
+
+<p>&ldquo;<hi>He must</hi>&rdquo; repeated her father.
+
+<p>The daughter fell at her parent&apos;s feet and implored him not to drive her husband forth. But no words of hers could move him. &ldquo;Why should all suffer for one?&rdquo; he argued. She returned sadly to her husband.
+
+<p>Presently the cries of the dacoits showed that they had scented their quarry. Soon they shouted at the door: &ldquo;Open! or drive out the Deputy Magistrate. We know he is here. Give him to us or what happens be on your own head.&rdquo;
+
+<p>The wife wept piteously. Her father remained obdurate, muttering, &ldquo;I knew this would happen.&rdquo;
+
+<p>The unfortunate Magistrate could not understand his father-in-law&apos;s behaviour. He sat with his head bowed in despair. Suddenly his wife ran to him.
+
+<p>&ldquo;You must try to escape. I have an idea.&rdquo; She pulled out a <hi>saree</hi> and some jewels, and began to dress him as a woman.
+
+<p>&ldquo;It&apos;s no use,&rdquo; he said hopelessly, &ldquo;they will catch me.&rdquo;
+
+<pb n=35><p>&ldquo;Be brave,&rdquo; she said encouragingly, &ldquo;for my sake see if you cannot elude them.&rdquo;
+
+<p>With tender hands she arranged the <hi>saree</hi>, draping it well over his head to conceal his face. Then giving him a <hi>ghurra</hi> (water vessel) told him to pretend that he was going to fetch water from the river. Cheered by her courage, he caught her to his heart in a mute farewell, and her prayers went with him.
+
+<p>He had not gone far from the house when cries arose of &ldquo;There he is!&rdquo; But some one shouted: &ldquo;It is a woman. Look elsewhere.&rdquo; And he passed slowly to the river. Here he flung the brass <hi>ghurra</hi> far out into the stream and ran for his life along the bank. No sounds of pursuit followed him, and he now gained courage enough to form a plan of escape. Not far from his father-in-law&apos;s village was a small police station. Thither he bent his steps and asked protection of its solitary occupant.
+
+<p>The man recognised him and asked: &ldquo;Deputy Saheb, why are you here? What is wrong?&rdquo;
+
+<p>The Magistrate told him of the dacoits and of his escape. &ldquo;Dacoits after you!&rdquo; said the policeman and looked grave. &ldquo;Sir, I cannot help you. <pb n=36>What is one <hi>policewallah</hi> against so many? If I shelter you we shall both die. You better push on.&rdquo;
+
+<p>For a time the Magistrate pleaded to deaf ears. But at length his promises of promotion and reward moved the man. &ldquo;Come&rdquo; he said &ldquo;I will do my best,&rdquo; and, rising, led the way to his own house. Here in the inner room was a high <hi>machan</hi>&mdash;a huge bamboo shelf made like a raft and suspended from the roof and reached by a moveable ladder, used for storing all sorts of things.
+
+<p>On this <hi>machan</hi> were some old blankets. &ldquo;Here, conceal yourself in these&rdquo; said the policeman. The Deputy Magistrate needed no second bidding. He climbed up and rolled himself in one of the blankets and heaped the others in front of him. The policeman carried the ladder away, right out of the house. Then he shut the door and returned to the office.
+
+<p>After a time there came the noise of the dacoits. They soon entered the police station and shouted: &ldquo;Give up that Deputy Saheb. We know he is here.&rdquo;
+
+<p>&ldquo;Deputy, what Deputy? I cannot understand. Where is he?&rdquo; answered the policeman.
+
+<p>&ldquo;Don&apos;t be shamming,&rdquo; returned the dacoits <pb n=37>contemptuously, &ldquo;thou knowest well whom we mean. Produce him if you value your own life.&rdquo;
+
+<p>In vain the policeman pleaded ignorance. His trembling limbs and shaking voice belied his words. The dacoits bound him, searched the police office, and then proceeded to hunt the house. &ldquo;He is not here. Let us not waste further time,&rdquo; said one. &ldquo;Let&apos;s look well,&rdquo; said another, &ldquo;and search every place.&rdquo; Some climbed the <hi>machan</hi> and discovered their victim. It did not take them long to drag him down, and beat him mercilessly with their long sticks, till he became unconscious. The policeman too was severely chastised. Him they left lying there; but rolled the offending Magistrate in an old mat, bound him tightly with a rope and carried him away to the river.
+
+<p>As he was borne on their shoulders through the night air, he gradually came to his senses but kept silent and listened to his captors. By this time it was dawn, and they were at the river. The majority were for re-crossing and burning him, dead or alive. One dissentient voice struck him with surprise. It was his father-in-law&apos;s! Clearly he was one of the gang! But scruples had overtaken him and he pleaded that he might not be a witness <pb n=38>of the projected murder of his son-in-law. &ldquo;Spare me! spare me!&rdquo; he cried.
+
+<p>Some jeered: &ldquo;Ho! Ho! you still have a soft corner in your heart for your son-in-law.&rdquo; At last they agreed that he might absent himself and he apparently turned back.
+
+<p>The others now put their burden into a boat and crossed the river. They were laughing at the father-in-law&apos;s weakness, and as they approached the <hi>ghat</hi> failed to observe a Government <hi>budgerow</hi> anchored there. It was the Divisional Commissioner&apos;s. He was out on tour. The <hi>paharawalla</hi> on deck checked them: &ldquo;Do not make such a noise. The Saheb sleeps.&rdquo;
+
+<p>They answered rudely and the watchman retorted angrily. The dacoits loudly abused the man.
+
+<p>The noise woke up the Commissioner, and he got out on deck with a loaded revolver in his hand. The dacoits jumped from their <hi>dinghy</hi> and ran up the bank. It was evident who they were and the Commissioner fired, aiming at their legs. One man fell with a scream of pain but scrambled to his feet and ran on.
+
+<p>Nothing was to be gained by chasing them <pb n=39>through the still dark jungle. The Commissioner turned his attention to the boat. &ldquo;Search it&rdquo; he ordered his watchmen. His quick eyes detected legs protruding from a mat, and he was not surprised when his <hi>chaprassi</hi> called: &ldquo;Saheb, a dead man lies in it.&rdquo;
+
+<p>The Deputy murmured feebly: &ldquo;I am not dead. I live.&rdquo; The <hi>chaprassi</hi> amended the first statement: &ldquo;Saheb, he speaks.&rdquo; The Commissioner jumped into the <hi>dinghi</hi>, cut the ropes that bound the unfortunate man, and discovered the Deputy Magistrate. It did not take him long to recover and pour his tale of woe into his Chief&apos;s ears.
+
+<p>By sunrise they were all after the dacoits. Blood-drops marked the way and, near by, they found the wounded man who, only able to hobble, had hidden himself in a thicket. The Deputy Magistrate&apos;s father-in-law was arrested. He was one of the leaders of the band. It did not take long to capture the others. And after this, for a time, this part of the Dacca district enjoyed peace from dacoits.
+
+
+
+
+<pb n=40>
+<div1 id=ch07>
+<head>All for Nothing</head>
+
+<p>A young and very high-caste Bengali lady was married to the son of a rich man who lived near Hooghly, a small town within a short distance of Calcutta.
+
+<p>Some years passed, but there was no sign of a son and heir. The parents-in-law were fond of the girl. She had won her way into their hearts and they sympathised with her. Yet they longed to see the old name being carried down the years, and whisperings grew into talk of a second marriage for their son. The girl&apos;s parents were anxious and distressed.
+
+<p>Then a kindly Providence intervened, and after months of expectation a little son lay in her arms, and both families rejoiced with the girl and shared her pride in the boy baby.
+
+<p>When the child was about a year old, the young mother&apos;s brother became engaged to be married. The date was fixed and invitations sent to the girl and to the family of her parents-in-law. It was arranged that she and her baby should attend the wedding.
+
+<pb n=41><p>Not far off, also in Hooghly, lived a widowed sister (of the girl) in her father-in-law&apos;s house. She too was going to the wedding, and it was settled that both sisters should travel in the same boat to Calcutta. No male member of either family could accompany them. Therefore, their father sent an old servant from Calcutta to fetch them. This man was trusted and treated like a member of the family, with whom he had been for years.
+
+<p>The girl put together her clothes. Her good mother-in-law unlocked the great safe and took out the girl&apos;s best jewels. An Indian wedding is the occasion for a great display of clothes and jewellery, and a well-dressed and richly-adorned <hi>bow</hi> raises the credit of the mother-in-law, especially if the wedding is in the girl&apos;s own family; so a careful selection was made. Baby was not forgotten either. Tiny gold bangles and chains had been showered upon him at his birth, and this was his first public appearance.
+
+<p>They started early, so as to arrive during the afternoon. There was to be a ceremony the next day and many guests had arrived at the bride-groom&apos;s house, and all watched eagerly for the two sisters. But the hours waned and still they tarried. <pb n=42>Late in the evening, the old servant arrived, agitated and all mud-bespattered.
+
+<p>Family, guests and servants plied him with questions concerning the sisters. Not a word would he reply. Suspicions soon voiced themselves. Dacoits were about. Everyone knew of the wedding and the consequent family gathering. Everyone knew too that the daughter was the cherished <hi>bow</hi> of a rich family.
+
+<p>Urged by these arguments and his own anxiety, the father threatened to skin the man alive unless he spoke. Intimidated by his master&apos;s anger, the servant stated that the boat had capsized and the sisters and baby were drowned.
+
+<p>The house of mirth and laughter was changed to one of weeping. But the father did not accept the information in its entirety. He called in the police and a vigorous search was made. All the boatmen were found. They stated they had swum ashore but could or would give no word of the ladies.
+
+<p>The only possible clue was given by an Englishman living in a mill on the river bank at Chinsurah. About midnight, on the date of the disappearance of the ladies, he heard the cries of women and a child. At first he had thought of going to <pb n=43>see what was up. But the sounds were coming from a thick jungle, and he argued it was impossible any one could be there in trouble, and finally thought no more of the seeming cries.
+
+<p>This ill-omened happening broke up the wedding party. The marriage was cancelled. All the preparations had been for nothing. To this day the fate of the sisters is unknown. The bride and bridegroom-elect were married to other parties.
+
+
+
+
+<pb n=44>
+<div1 id=ch08>
+<head>A Punjabee Dacoit</head>
+
+<p>In a railway train several Punjabee ladies sat on the lower berths of a second class compartment, laughing and talking gaily. They were, with one exception, all richly dressed and each of them wore a quantity of jewels. The exception was a capable, good-looking woman, of about twenty-five. Her short hair, neck and arms bare of jewellery, and plain white <hi>saree</hi>, proclaimed her a widow. But like the others she chatted merrily, and a listener would have learned from their conversation that they had been attending a wedding, and were now on their way home. Witty remarks about the guests, criticism of the looks of the bride, and comparisons of this wedding with others, passed from one to another, and whiled away the hours of the journey as the train sped onwards.
+
+<p>Night fell, and the ladies became silent. They rested against each other and dozed at intervals. The widow sat on a trunk at the end of the carriage and silently told her beads. The train slowed down and stopped at a little station. Then the bell clanged and once again they were on their way. <pb n=45>The little station had not been left far behind when a dark figure appeared on the foot-board of the ladies&apos; carriage, and a man&apos;s head was thrust in at one of the windows. A startled exclamation from one of the party drew the attention of all to the intruder, who was pulling himself up into the carriage. He was very fierce-looking, wore a huge turban, and had a bushy black beard. In one hand he held a knife and with the other he assisted himself into the compartment, in spite of the ladies&apos; protestations.
+
+<p>Some of them began to cry but one or two bolder spirits ventured to argue with him. In answer to their questions and objections, he said roughly: &ldquo;It is a long while before you will reach another station. I have come for your jewels. If you give them to me quietly, I will not hurt any of you; but if not&mdash;&rdquo; and he looked very expressively at the knife in his hand.
+
+<p>After some few minutes, the ladies, who were inclined to oppose him, yielded to the tearful advice of their more timid sisters, and one by one they began to unclasp necklaces and belts and hand them over to the dacoit together with bracelets, bangles and rings. The ruffian, finding them <pb n=46>docile, did not hustle them in any way but stood leisurely receiving the spoil. Then he carefully folded all in a rich <hi>saree</hi> and was knotting the ends together when the train suddenly stopped, and an Englishman pushed open the door of the ladies&apos; compartment and sprang at him with the exclamation, &ldquo;You scoundrel!&rdquo;
+
+<p>The sudden surprise and assault threw the robber off his feet, and he fell sprawling on the carriage floor, with the Englishman on top of him. In the meantime, the guard and others arrived and the thief was secured and his hands and feet were bound together with his own <hi>pugree</hi>, and he was removed to the guard&apos;s van.
+
+<p>The widow was the heroine of the adventure. As soon as she saw the man entering the carriage, she realised his purpose. Slipping into the lavatory she climbed through the window there on to the footboard, and pulled herself along by the carriage rods to the next compartment where the solitary occupant, an Englishman, sat reading.
+
+<p>He was amazed to see a woman clinging to the window of his carriage, but fortunately he understood the language; and when she said &ldquo;Help, thief in the next carriage&rdquo;, he opened the door and got <pb n=47>her into his carriage without any delay. In a few words, she acquainted him with what was happening in the next compartment. He immediately pulled the alarm cord to stop the train, and hurried along the footboard to the assistance of the ladies. They were profuse in their expressions of gratitude to him, but he insisted that they owed their lives and their jewels to their courageous friend.
+
+
+
+
+<pb n=48>
+<div1 id=ch09>
+<head>A Child&apos;s Experience</head>
+
+<p>Some years ago in a country place, not far from Calcutta, there lived a well-to-do Bengalee gentleman. He was an old man; and his large family consisting of sons, grandsons, and his brothers with their wives and children, and many dependent relatives&mdash;all lived happily together in their ancestral home.
+
+<p>It was an old-fashioned house with verandahs, courtyards and many rooms. In a large <hi>dalan</hi> or verandah all the family <hi>poojas</hi> were celebrated. Here the daughters of the house were married, and for generations the old walls had looked on at family gatherings and festivities.
+
+<p>There were extensive grounds round the house. Quite close to the <hi>zenana</hi> there was a large kitchen garden which supplied all the vegetables consumed daily in the house; and so plentiful was the produce that large trays filled with vegetables were sent out every day as presents to friends, relatives and to the neighbouring temples.
+
+<p>A little further away was an orchard, and in spring the numerous mango trees delighted all <pb n=49>eyes with their blossoms. And there were jack fruit trees, peaches, plums and guava trees in numbers, besides long lines of plantains and palms of several kinds.
+
+<p>In the garden, orchard and stables there were tanks and wells so that the supply of water was sufficient for the needs of such a large establishment. In front of the mansion there was a large ornamental tank or lake with white marble steps leading to its waters. Here every evening the men and boys of the family gathered to recreate and enjoy the cooling south breeze, and they were often joined by neighbours, and many a pleasant hour was spent on those marble steps.
+
+<p>An avenue of trees and a high hedge rendered the house quite private, and the roof was a lovely recreation place and promenade for the ladles and girls of the family, who were all <hi>purdah</hi>.
+
+<p>The old man&apos;s wealth was much discussed and the expensive clothes and rich jewels of the ladies were often spoken of. One day the old gentleman received a warning letter from a band of dacoits that the house would be visited by them that night. After some hurried consultation, the family packed up all their jewels and valuables and sought shelter <pb n=50>in flight. It was decided to spend the night at a place a few miles distant.
+
+<p>In the excitement a young mother was separated from her little boy, a child of about three or four years of age. She concluded that he was with some other member of the family in another carriage and did not trouble herself about it. But on their arrival at their place of refuge he was not found with any of the others.
+
+<p>The mother&apos;s distress of mind was pitiful. She wished to return for her child; but it was growing dark and there was the danger of meeting the dacoits. So her wish was overruled, and through the long night she suffered terrible anxiety, picturing in her mind all that was perhaps befalling her little son.
+
+<p>In the meantime the child was sleeping sweetly and peacefully in his bed in his mother&apos;s room. Tired out with play, he had slipped into bed unknown to any one and there he lay.
+
+<p>About twelve at night the dacoits arrived and broke into the house. They searched the empty rooms and were furious at finding no valuables worth carrying away. They came to the room where the little boy slept, and their loud voices <pb n=51>awakened him. He sat up and, seeing their strange faces and glaring torches, screamed with fright. One of them threatened to kill him if he did not stop his noise. Another stepped to the bedside and taking the little boy in his arms said: &ldquo;Little one, do not cry. No one will hurt you.&rdquo;
+
+<p>The child recognised his father&apos;s servant and twined his little arms around the man&apos;s neck. The other dacoits laughed and walked out of the room leaving their comrade with the child.
+
+<p>When daylight broke, the family returned home, and the poor young mother flew through the house in search of her child. To her surprise and joy she found him sleeping peacefully in her own room. Her hysterical caresses awakened him and the little fellow could not understand what ailed his mother.
+
+<p>&ldquo;Did nothing happen during the night?&rdquo; she asked. &ldquo;Did you see anything or anyone, my son?&rdquo;
+
+<p>Rubbing his chubby knuckles in his eyes the sleepy little boy answered: &ldquo;Oh, yes, where were you, mother? A lot of men came. Some wanted to hit me, but&mdash;(naming the servant) was with them, and he sent them away. Then he gave me sweets and put me to sleep.&rdquo;
+
+<pb n=52><p>The servant was arrested, and he confessed that he was one of the band of dacoits who had sent the warning letter and had broken into the house. Nearly the whole band was captured.
+
+
+
+
+<pb n=53>
+<div1 id=ch10>
+<head>Two Chinese Dacoits</head>
+
+<p>In a large house in Calcutta there lived an Englishman, his wife and her sister. Mrs. C. was of a highly-strung and nervous disposition, and as her husband&apos;s business frequently occasioned his absence from home, they had persuaded her sister Ethel to come out to India on a long visit.
+
+<p>Ethel was a bright, lively girl, very practical and quite the opposite of her sister, whom she often rallied for her timidity. Once when Alice was more trying than usual, Ethel exclaimed: &ldquo;Perhaps if I were a little like you, Alice, delicate, nervous and silly, I might get a husband who would fuss over me like Charlie does over you.&rdquo;
+
+<p>Alice laughed at her sister&apos;s earnestness and said: &ldquo;If you were not healthy and strong-minded you would understand me better, Ethel.&rdquo;
+
+<p>Not long afterwards the two ladies were left alone for some days as Mr. C. was obliged to go upcountry on business. While he was away, Ethel slept with her sister. It was the cold weather when night closes in early and the evenings are long. Mrs. C. liked an early dinner, soon after which she <pb n=54>always retired. Ethel liked to spend the long quiet evenings, reading or writing, and often sat up till midnight.
+
+<p>One afternoon, while they were at lunch, a telegram was brought in, and on opening it, Alice exclaimed delightedly &ldquo;Charlie will be back in time for dinner.&rdquo;
+
+<p>The evening passed away till dinner time but Mr. C. did not arrive and the ladies waited till nine o&apos;clock. Then they dined, and when the clock struck ten and still there was no arrival, Alice said she would go to bed, as Charlie must have missed his train and the next was not due till near midnight.
+
+<p>Ethel looked up from her book and said: &ldquo;Well, I am sleeping in my own room.&rdquo;
+
+<p>&ldquo;O! you know I hate to be alone,&rdquo; exclaimed Alice; &ldquo;you might come and sleep in mine until Charlie comes in.&rdquo;
+
+<p>&ldquo;Alice, you are selfish,&rdquo; retorted Ethel. &ldquo;I shall barely be in bed before he walks in. The only thing for me is to go to bed in your room in my evening dress.&rdquo;
+
+<p>&ldquo;How silly you are,&rdquo; said Alice peevishly; &ldquo;why cannot you undress as usual? Charlie may not come at all to-night and I dread being alone.&rdquo;
+
+<pb n=55><p>&ldquo;Oh, very well,&rdquo; said Ethel, &ldquo;I will come and read in your room till Charlie does come. I shall never marry a man who is always away on business,&rdquo; With these words she forsook her easy chair and accompanied her sister into the large bed-room. She threw herself on the side of the bed and went on with her book.
+
+<p>Alice undressed, got into bed and was soon asleep. Ethel finished her book and then lay waiting for her brother-in-law. The lights in the hall and on the landing were not extinguished, but the house was still and quiet. It was near twelve and Alice was just wondering if Mr. C. would really arrive or if it would not be better for her to undress and get into bed comfortably when she heard gentle footsteps on the stairs.
+
+<p>&ldquo;There&apos;s Charlie,&rdquo; she said to herself, &ldquo;and how softly he is coming upstairs! he is a considerate husband.&rdquo;
+
+<p>She looked at her sister, saw that she was sleeping very soundly. &ldquo;I will pretend to be asleep too,&rdquo; said Ethel to herself and she drew up the bed-clothes to hide her evening dress and put a pillow over her head.
+
+<p>To her disappointment, Charlie delayed his <pb n=56>coming and she was wondering if he was dining when the door slowly opened, but instead of Mr. C. two Chinamen entered the room. Ethel stared at them from under her pillow with amazement. At first they stood motionless beside the door. Then, closing it noiselessly, they advanced into the room. Their quaint clothes, long pigtails and red eyes together with their stealthy movements and the hour of midnight, created an uncanny atmosphere in the room, and for the first time in her life Ethel began to understand what nerves mean. Never in her life had her pulses jumped and throbbed as they were doing now. She controlled her inclination to scream and from under her pillow watched the men.
+
+<p>They examined the room and one of them approached the toilette table and began to transfer the jewels and silver ornaments which lay upon it to a capacious bag. The other took a big cigar out of his pocket and lit it. Then he stepped to Mrs. C.&apos;s side and began to puff the smoke into her face. She was sleeping upon her back and though she at first stirred uneasily she soon seemed to sink into a deeper sleep. After a few minutes by her side, the Chinaman moved round to Ethel&apos;s side of the bed; but seeing that her head was covered by <pb n=57>a pillow and that she was apparently fast asleep, he turned to help his comrade.
+
+<p>At this moment Mr. C.&apos;s voice sounded in the hall and he came running upstairs, whistling gaily. The robbers exchanged alarmed looks and hastily hid themselves and their bag of booty behind a large almirah. Charlie opened the door and came into the room, saying &ldquo;Alice, where are you?&rdquo; Approaching the bed he said &ldquo;What, asleep!&rdquo; and bent over his wife. But she was in a deep slumber and oblivious of her husband&apos;s presence. He noticed Ethel&apos;s form on the opposite side of the bed and, walking gently round, touched her arm and whispered: &ldquo;Are you asleep too?&rdquo;
+
+<p>She lifted the pillow, stretched her arms, and then sat up on the bed. He noticed her evening dress and was explaining his late arrival when she jumped up crossly from the bed and saying, &ldquo;Look at your wife, is she not looking ghastly?&rdquo; went out of the room. Charlie returned to his wife&apos;s side and looked closely at her. Her face seemed strangely pallid and her hands were cold. He endeavoured to wake her and was still trying to rouse her when Ethel returned to the room followed by several of the servants, who looked excited.
+
+<pb n=58><p>In answer to his question, &ldquo;What is wrong with Alice?&rdquo; Ethel said &ldquo;There are two thieves hidden behind the <hi>almirah</hi>. Let the servants help you to secure them and then you will know what is wrong with Alice.&rdquo;
+
+<p>The two Chinamen were soon routed out from behind the almirah, captured and handed over to the police. A doctor was summoned and Alice was brought out of the stupor, she had been thrown into by the fumes of opium smoke.
+
+
+
+
+<pb n=59>
+<div1 id=ch11>
+<head>An Unfaithful Servant.</head>
+
+<p>A rich zemindar named Bose lived in Lucknow, He had emigrated there from Bengal, acquired land there, and studied the language until he could speak Urdu like a Hindustanee. He became so much a native of Lucknow that, when business took him down to Calcutta, he felt himself a foreigner and stranger in Bengal.
+
+<p>His wife was an invalid and, as the years told on her, he had frequently to take her to Calcutta for medical advice and treatment. Their only child was a daughter who was the darling of their household. The second favourite in the family was a boy called Ram, who though really a servant was treated like a son of the house and both Mr. and Mrs. Bose were very fond of him.
+
+<p>When quite a small boy, Ram had been taken into service in the Bose menag&eacute;; and as his parents were both dead and he was remarkably quick and intelligent, the zemindar took a fatherly interest in the lad and had him taught to read and write. The teacher thought so highly of Ram&apos;s intellect that he was taught one subject after another by his <pb n=60>indulgent master, and when he grew older, was especially educated and trained for estate work. When his education was finished he was appointed to be confidential clerk and cashier, and gradually grew to know as much of Bose&apos;s money affairs as the zemindar did himself. Whenever the rich man went on his estate, Ram went with him. At times of collection, Ram had the office of counting the silver and locking it up in the cash box. Frequently thousands of rupees passed through his hands in this way, and he alone always knew what amount of money the cash box contained.
+
+<p>One year, Bose and the faithful Ram had been round the zemindari, collecting rents; and, as many who had been in arrears paid up, they returned with a larger sum of money than usual. This was locked up in the cash box and Bose told his wife in Ram&apos;s hearing that next day he should deposit it in the bank. The cash box was always kept at night on a table by the zemindar&apos;s bed-side.
+
+<p>The Boses had a large house in Lucknow and it was nearly always full, as Mrs. Bose was fond of company and they invariably had a number of relatives and friends staying with them. Mr. and Mrs. Bose slept upstairs in a large south room, which <pb n=61>opened into another large room alongside of it. The only furniture in their room was their two beds and a table which stood between the beds to hold the cash box and a lantern.
+
+<p>The night of the zemindar&apos;s return, his wife could not sleep. She had been ill and she counted the hours as the night wore on. The light of the lantern showed her husband&apos;s sleeping form, the naked sword which always hung at his bedpost, and the bare white-washed walls of the room. As she lay awake, Mrs. Bose thought she heard a noise at the door leading into the other room. The noise came again and she listened intently. Some one opened the door and then shut it. Mrs. Bose kept still, listened and watched. Some one again opened and shut the door gently, then again and again. It struck Mrs. Bose that this was being done to ascertain whether the inmates of the room were asleep or awake. She continued to keep perfectly still.
+
+<p>Now the door was pushed wide open and Ram entered, and closed the door softly behind him. When Mrs. Bose saw him enter, her first thought was that he was the bearer of some bad news, and she very nearly asked him what was the matter. <pb n=62>But his stealthy movements made her feign sleep and see what he was about; and as he approached her bed on tiptoe, she closed her eyes and lay as if peacefully sleeping. He stood beside the bed apparently watching her. Mrs. Bose&apos;s nerves were tingling with fear, and it took all her powers of self-control to keep her eyes closed and her breath steady. Just as the effort seemed more than she could keep up, Ram moved away from her bed.
+
+<p>Through her eye-lashes she watched him creep noiselessly to the table and examine the cash box. Then he returned to the side of her bed and coughed. Mrs. Bose again succeeded in keeping perfectly still and he moved round to his master&apos;s bedside. Here he stood motionless for some seconds and then unfastened the sword. The zemindar was sleeping heavily and as he detached the sword Ram smiled to himself as if everything was very satisfactory. He grasped the sword in his right hand and made a trial stroke. Then, smiling again, he lifted the curtain of the zemindar&apos;s bed with his left hand.
+
+<p>Mrs. Bose felt sure that his motive was murder as well as robbery, and she now shrieked loudly for aid. At the first sound of her voice Ram dropped the sword and fled from the room. His wife&apos;s <pb n=63>piercing screams of &ldquo;Murder! Help!&rdquo; woke the zemindar, but by the time he understood what had taken place Ram had let himself out of the house and was gone.
+
+<p>When morning came the police were informed and the zemindar offered a handsome reward for the arrest of Ram; but though the police hunted in Lucknow and elsewhere and also searched the village where Ram&apos;s relatives lived, no one knew anything of him and he was never again heard of in Lucknow.
+
+<p>Some years after, the old zemindar died and one of the last remarks he made was: &ldquo;I should like to know what has happened to poor Ram.&rdquo; He had never forgotten his affection for his old protege, and had quite forgiven him for his ungratefulness.
+
+
+
+
+
+<pb n=65>
+<div0 id=pt2 n=II>
+<head>Tiger Stories</head>
+
+
+
+<pb n=67>
+<div1 id=ch12>
+<head>The Bearer&apos;s Fate</head>
+
+<p>Mr. Gupta, a Bengali gentleman, was a skilled engineer. The Government thought highly of him and whenever any work of special difficulty had to be undertaken, always chose him.
+
+<p>At one time he was stationed at Hazaribagh. This district is even now infested with tigers, and in those far-off days these lords of the jungle roamed far and wide.
+
+<p>There was then no railway. Travelling was done by <hi>palki</hi> or by &ldquo;push-push&rdquo;&mdash;a box-like carriage on four wheels, in which the traveller was forced to recline, and which relays of coolies pushed before them. The roads were often mere tracks through dense forest.
+
+<p>It happened that Mr. Gupta was ordered to report on some important work a few miles away. His devoted wife carefully packed his luggage. They were a happy couple and each short parting was a pain in their lives. A trustworthy old servant always accompanied his master to camp. But to-day to his mistress&apos; surprise he begged not to go.
+
+<pb n=68><p>When Gupta came in, his wife told him of the man&apos;s unwillingness to accompany him.
+
+<p>&ldquo;Nonsense!&rdquo; said Gupta, &ldquo;he will have to go. What has happened to him?&rdquo;
+
+<p>&ldquo;I think he is ill&rdquo; the wife excusingly replied, her tender heart full of the man&apos;s wistful face and strange manner. Still she agreed with her husband and told the bearer, he must go with his master.
+
+<p>&ldquo;Forgive me, I have high fever, <hi>Ma-ji</hi>,&rdquo; he shivered, addressing her by the honoured name of mother, as is the custom of Indian servants in an Indian household.
+
+<p>She turned again to her husband who said: &ldquo;I know what is in the poor old fellow&apos;s mind. He has an idea he will be killed by a tiger. However, tell him there is no danger. I am taking a large number of bearers and he can keep near the <hi>palki</hi>.&rdquo;
+
+<p>Mrs. Gupta tried to cheer the servant with this information but he wailed: &ldquo;<hi>Ma-ji</hi>, I am afraid. Surely a tiger will kill me to-night.&rdquo;
+
+<p>&ldquo;Do not fear,&rdquo; consoled the kind lady. &ldquo;Your master will take good care of you.&rdquo; &ldquo;Go you must,&rdquo; she continued in a firm tone. &ldquo;There is no one except you who knows his ways and can see to his comfort. Now get ready quickly.&rdquo;
+
+<pb n=69><p>&ldquo;Oh, <hi>Ma-ji</hi>,&rdquo; he sobbed like a child, &ldquo;I obey, but my heart is heavy.&rdquo;
+
+<p>Mr. Gupta had to travel through the night. After an early dinner he started, attended by many <hi>palki</hi>-bearers and the old servant. The moon rose bright and glorious and bathed the picturesque country in soft radiance. The silence of the forest was broken only by the rhythmic cries of the bearers and the <hi>pat-pat</hi> of their feet. The first stream was reached and the bearers asked for a halt. Consent granted, they went into the stream to drink of the deeper water. The old servant crouched by the <hi>palki</hi>.
+
+<p>&ldquo;Thirstest not?&rdquo; kindly asked his master.
+
+<p>&ldquo;<hi>Babu-ji</hi>, I feel nervous. I will stay near you.&rdquo;
+
+<p>Gupta wondered what might have unstrung the man, and felt sorry for him. &ldquo;Come and sit close to me,&rdquo; he said.
+
+<p>The night was cold and the old bearer, huddled in his blanket, sat on the edge of the <hi>palki</hi> door.
+
+<p>Suddenly the stillness of the night was broken by a rapid crash through the dry grass near the <hi>palki</hi>, and with a thrilling roar a tiger leapt at the man and dragged him away. The <hi>palki</hi> shook, <pb n=70>and the bearer&apos;s piteous cry &ldquo;<hi>Babu-ji, Babu-ji,</hi> I told you&rdquo; filled the forest, and echoed and echoed again as the tiger bore him away. Then all became still.
+
+<p>Gupta realised what had happened. He lay back sick with horror, and felt as if he were the guilty one. For many a day the old man&apos;s dying wail rang in his ears.
+
+
+
+
+<pb n=71>
+<div1 id=ch13>
+<head>Through the Roof</head>
+
+<p>They were laying the railway through the Hazaribagh district, and in a low-roofed bungalow at Giridih lived the Engineer in charge of the work. He was a young Englishman and his only recreation in this dreary place was riding and shooting.
+
+<p>The coolies lived in frail little mat houses in the same enclosure as his bungalow. One morning they came to him in a body to tell him that during the night a tiger had carried off one of their cows. The next morning another cow was missing, and on the third his servants awakened him with the news that his Arab pony was gone.
+
+<p>He loved the little animal. Many a mile had he scoured on its back. &ldquo;Stripes&rdquo; must be punished for this. He would sit up the coming night and watch.
+
+<p>Babus, servants and coolies loudly approved. What was life worth with such nightly happenings? and the lord of the jungle would surely come again. Had he not discovered a well-filled larder?
+
+<p>Work over, the young man loaded his gun, and <pb n=72>after dinner took up his position and awaited the enemy. A reliable servant sat up with him.
+
+<p>The bungalow was raised on piles a few feet from the ground. It had brick walls but a thatched roof which sloped very low down on all sides. The wooden windows were closed. Our friend sat at one of them with the Venetians slightly stretched. The bungalow was dark and still.
+
+<p>At last a strange odour filled the air and then the heavy breathing of the tiger was audible. It came and stood just outside the window. The young fellow noiselessly pointed his gun through the Venetians and fired. An angry growl told that the tiger was wounded. Then it charged forward with a furious roar. The Englishman fired again and this time thought he had finished it. But the animal charged again with increased rage. After several attempts at the window it leapt for the roof and succeeded in clutching the eaves and scrambled up. The terrified servant cried: &ldquo;Saheb, come into another room&rdquo;.
+
+<p>&ldquo;Don&apos;t be a fool!&rdquo; shouted his master, &ldquo;the tiger can&apos;t come through the roof.&rdquo;
+
+<p>In their huts the poor coolies heard the shots and the terrible roars and growls and dared not come <pb n=73>to their master&apos;s assistance. The tiger tore and scratched the thatch with all his might and soon made a hole. &ldquo;Look! Saheb!&rdquo; screamed the servant, &ldquo;he comes through&rdquo;.
+
+<p>&ldquo;I have a loaded gun in my hand&rdquo;, the Saheb replied.
+
+<p>The hole speedily grew larger as the great cat clawed and growled. The servant could stand it no longer. He bolted into the next room, shutting the door between. There he shivered and shook till morning, when he fled to the railway station a couple of miles away and told the Sahibs there his tale. They got guns and horses and rode over. They peered through the shutters and saw the tiger in the room. It soon scented them and charged with a mighty roar. They retreated without dignity to a safe distance where all stopped. One said, &ldquo;I say! we must see what has happened to the poor chap&rdquo;. Another: &ldquo;So many of us and loaded guns! We must do something&rdquo;. A third: &ldquo;let&apos;s get back and kill the beast&rdquo;.
+
+<p>They went back and fired shot after shot through the shutters till the animal was killed. Then they broke into the room and found their luckless comrade dead on the floor, his loaded gun <pb n=74>still in his hand. The tiger must have killed him with a slap of its mighty paw, and sat on his body all night, but clearly the animal was not a man-eater.
+
+
+
+
+<pb n=79>
+<div1 id=ch14>
+<head>Earning the Reward</head>
+
+<p>A man-eating tiger was roaming through Hazaribagh station. It had killed many villagers and had become so daring that it entered the market-place in broad day-light.
+
+<p>A poor old tailor on his way home one evening was seized by the blood-thirsty animal, and his screams for help filled the little town. The morning light showed traces of the struggle between man and beast, and where the latter had been dragged from the main road.
+
+<p>The villagers did <hi>puja</hi> that night that all might be saved from a like fate. A few days after, a ploughman and a little boy stood talking about the tiger. &ldquo;How do you know that he won&apos;t catch you?&rdquo; asked the boy.
+
+<p>The ploughman answered confidently: &ldquo;I have done <hi>puja</hi>&rdquo;. Barely had the words passed his lips than the tiger leapt upon him. The boy was startled, but not realising his own danger not only did he not run but also caught up a stick and tried to save his friend. In spite of his hitting it the animal began to devour the unfortunate man, <pb n=76>snarling threateningly the while. Then the boy threw away the stick and fled to the village. The news roused the villagers and they determined to try to rid themselves of their foe. Armed with spears, sticks and heavy bamboos they followed the boy to the scene of the tragedy. But the tiger was gone.
+
+<p>The Government had offered a handsome reward to any one who would succeed in killing this tiger and now a poor shop-keeper determined to win it. He knew nothing of shooting but worked up the ambition of a friend who could shoot and had a couple of guns. Together they essayed the difficult job. Difficult it was. The tiger seldom returned to his kill, nor stopped at a kill any length of time, and was known to have killed three or four victims in one day.
+
+<p>However they hoped for success. The villagers had been very careful of late and the tiger had consequently been obliged to go hungry. It was just possible he might return to the kill. So they got permission for a mangled body to be left there, and built a <hi>machan</hi> near it. At sunset they took up their places and watched.
+
+<p>At first the pair felt cheerful. A brilliant <pb n=77>moon illuminated the whole country making everything as clear as day. But no tiger came. And later, as the hours dragged on, their cramped position, the nearness of a dead body, the silence and mystery of the night, all got on their nerves, and they wished they had not attempted such a task. But to leave now would be dangerous. So they did their best to encourage each other and waited on.
+
+<p>In the small hours of the night they distinctly heard the tiger coming and saw a huge black shadow moving stealthily towards their tree. The animal looked enormous in the uncertain light and each thought the <hi>machan</hi> too low and wished himself in his house in the village. Neither dared to speak or move.
+
+<p>Not far from the <hi>machan</hi> was a hillock. The tiger, after stalking round the tree, went to the corpse, smelled it, and then crossing to the hillock climbed up and sat himself there. The men felt sure he could now see them.
+
+<p>The tiger began to sniff as if he scented them. Then it yawned and snarled. The men sat fascinated. Presently the great head turned towards them. The shopman pulled the trigger of the gun <pb n=78>he held. There was a deafening roar and the tiger disappeared from the hillock. Then all became still. They knew by the roar of pain that he was hit. Tigers are clever and often feign death when wounded. They dared not descend. They were not sure that he was killed. At any moment he might attack their tree. Comrades in enterprise and fear, they sat gripping each other in the darkness, for the moon had now set.
+
+<p>The villagers had heard the shot and at day-break came to the spot. They found the tiger lying dead at the foot of the hillock. The heroes could barely descend from the <hi>machan</hi>, so stiff and aching were their bones. Together they received the plaudits of the village and shared the Government reward which to them was quite a small fortune.
+
+
+
+
+<pb n=79>
+<div1 id=ch15>
+<head>A Burmese Monster</head>
+
+<p>Some years ago Government sent an engineer and party to explore and prospect in the forests of Burma. None returned. Their disappearance was a mystery.
+
+<p>The authorities decided to send another party to ascertain the fate of the first and continue the work. To induce volunteers, a handsome salary was offered; and at length an Englishman came forward. He asked for twice the number of native attendants that the first man had had. Government granted him his request and provided him with every facility procurable and he started.
+
+<p>He followed the course taken by his predecessor up a large river. He travelled in a big boat and his men in smaller ones. Here and there they came upon traces of the former party. They pushed on. Suddenly all indications of the missing ones ceased. He felt he had better stop and investigate. Tents were landed and pitched and the men began to prepare their evening meal.
+
+<p>As he sat in his tent reading, he heard loud shouts and some of his coolies rushed to him. They <pb n=80>said that as they were cooking they saw a great black thing hanging from a tree above them. When they made a noise it disappeared. It was long and thick and black. The coolies were frightened out of their wits and refused to remain in that place. Argument was of no use; so the tents were taken down and the party moved on.
+
+<p>Another spot was selected and here they stayed peacefully for some days. Suddenly a man was missing. Then another and another! Each disappeared when alone. The coolies were frightened and uneasy. But this time the Sahib managed to control them. He himself was anxious and puzzled.
+
+<p>Next a coolie who had gone to the river to scour vessels after a meal disappeared. The plates and <hi>lotas</hi> were scattered about just as if he had been suddenly seized. The Englishman thought that a crocodile must have taken him off.
+
+<p>Soon after this incident the engineer was fishing in the river opposite to the camp, and he noticed two coolies coming to the river. They sat down at the <hi>ghat</hi> and began to scour their vessels. The murmur of their voices reached him.
+
+<p>Presently the boatman clutched his arm and <pb n=81>pointed to the bank. He looked. One of the coolies was chasing a huge hairy monster. The other could not be seen.
+
+<p>The engineer soon crossed the river and joined the coolie, still in the chase after the strange creature. As usual, the Saheb carried a loaded revolver and as he ran he fired several shots at the animal. They had no effect on it. The beast ran on with heavy lumbering strides, covering the ground with great rapidity and only once glancing back over its shoulders with a horrible grin. He could not overtake it and it disappeared into the thick jungle. Its hair was so long that it completely covered the man it carried in its powerful arms. It was some kind of an orang-outang.
+
+<p>The mystery was now cleared up. The engineer returned. His task was accomplished. Later he wrote an account of this adventure and concluded with these words:&mdash;&ldquo;Now when I see a great hairy spider I tremble! and the remembrance of that monstrous black form returns to me, and the hideous grin that thrilled me. Never can I forget it.&rdquo;
+
+
+
+
+<pb n=82>
+<div1 id=ch16>
+<head>The Palki and the Tiger</head>
+
+<p>In a lonely village in the Hazaribagh district the peaceful dwellers were one evening disturbed by shrill cries of distress. When they gathered round the house from whence the cries came, they discovered that a ghastly murder had been committed. The headman of the village immediately despatched two messengers for the police. These men started in the dawn and reached the Police outpost just before sunset.
+
+<p>The Inspector-in-charge was a Bengalee, named Bose, who was a very intelligent officer and keen on his work. As soon as he received information of the murder, he ordered one of his staff to arrange for a <hi>push-push</hi> (carriage which is partly drawn and partly pushed by men) and a set of bearers. He quickly put together a few requisites for the journey, and was soon ready. The night was not far advanced when the orderly returned with a <hi>push-push</hi> and eight bearers, and Bose started off, attended by his cook and body-servant.
+
+<p>The road lay through a forest. At times the path was so narrow and rocky that the men could <pb n=83>make little progress, and at last they declared that the road was impassable for a wheeled conveyance, and that it was necessary for the Inspector to change into a <hi>palki</hi>. One of them said that about two miles off the road there was a village, and that in the village there lived a rich Hindustani merchant who might lend a <hi>palki</hi>. Bose was pleased at the suggestion and told the <hi>push-push</hi> bearers to take him to the village. They needed no second bidding, and the Inspector was soon being trundled across the paddy fields that lay between the village and the road. Arrived there, he hastened to the merchant&apos;s house and asked to see him.
+
+<p>A handsome up-countryman came out and when, he saw that his visitor was a gentleman he courteously asked him to enter and be seated. The Inspector soon explained his necessity for a <hi>palki</hi>, and the rich man placed his at the disposal of the police officer. &ldquo;But <hi>Jenab</hi> (Sir),&rdquo; he said, &ldquo;tigers are bad in this forest and you have to pass through a part known to be a favourite haunt of theirs. Have you any fire-arms?&rdquo;
+
+<p>&ldquo;Only my revolver,&rdquo; said Bose &ldquo;but I must push on and take my chance.&rdquo; And as the <hi>palki</hi> now stood ready and the bearers declared themselves <pb n=84>refreshed, he thanked his host for his ready assistance, bade him farewell and started once again.
+
+<p>The bearers were full of spirits after their rest at the merchant&apos;s house and for a mile or two travelled at a rapid pace; but the narrow winding road impeded their progress, and as the night advanced the eerie sounds of the forest must have got on their nerves. At the commencement of the journey they had beguiled the march with stories of tigers and bears met in the forest, but after some hours of travel they became silent; and beyond the usual directions of the forward men concerning the road and occasionally a shrill cry to scare away wild animals, they made no remarks to each other.
+
+<p>Within the <hi>palki</hi>, Bose lay fitfully dozing. The night was oppressive and his thoughts were on the murder and his chances of a successful capture of the wrong-doer. The road had become wider and level and the men were going along at a good pace, when suddenly they dropped the <hi>palki</hi> to the ground and fled in all directions. Bose shouted: &ldquo;What is up? Why have you run away?&rdquo; No answer greeted his ears but a strange odour penetrated his nostrils and he knew there was a tiger in the jungle. He quickly pulled the doors of the <hi>palki</hi> jamming <pb n=85>them as securely as he could with the ends of his <hi>razai</hi> (quilt). Then he tore the strong border off his <hi>dhoti</hi> (loin cloth) and commenced to bind the handles of the doors together. He had just finished firmly lashing together the handles on one side when he heard an ominous growling. With frantic haste he bound the handles of the opposite doors together, praying fervently that he might escape the jaws of the tiger.
+
+<p>The animal continued growling. Evidently the dark bulk of the <hi>palki</hi> frightened him. Bose sat inside, huddled in a heap and breathless. The tiger, re-assured by the stillness of the object before him, ceased growling; and presently, the soft thud of his feet and his sniffing round the <hi>palki</hi> told the trembling man within that &apos;Stripes&apos; was making an investigation.
+
+<p>Now a mighty roar shook the jungles and Bose realised that the tiger had leapt upon the roof of the <hi>palki</hi> and was scratching furiously at it. Bose clutched the handles of the doors and held on to them with the grip of despair. The tiger scratched and growled and finally bounded off the top and began a vigorous assault upon the side. The <hi>palki</hi> toppled over on to its other side. Poor Bose congratulated <pb n=86>himself that now one of the doors rested upon Mother Earth and he could give his whole energy to defending the other. He gripped the handles with renewed determination and waited.
+
+<p>The tiger had sustained a shock at seeing the unknown monster he was tackling roll over, and for a time satisfied himself by growling savagely. But as the monster lay still &ldquo;Stripes&rdquo; tried the experiment of a sharp blow with his paw. The <hi>palki</hi> rested on uneven ground and the blow made it rock. The tiger waited awhile; and when the rocking had subsided administered another stroke. The <hi>palki</hi> rocked again. The situation now developed into a game between the huge cat and the <hi>palki</hi>. When he slapped the <hi>palki</hi> rocked; and when the <hi>palki</hi> ceased vibrating the tiger slapped again. Inside the <hi>palki</hi>, the Inspector held on to the handles of the door and prayed for deliverance.
+
+<p>At last the tiger, wearied of the game and purring loudly, walked away. Bose breathed more freely but knew not if the danger was past. There he lay gripping the handles of the door and wishing for daylight. At last the dawn broke and with the first rays of light courage returned to the bearers and servants, who were hiding in the branches of <pb n=87>the surrounding trees. They called to each other, expressing anxiety as to their master&apos;s fate. Finally, as the daylight grew stronger they encouraged each other to descend and approach the <hi>palki</hi>.
+
+<p>As they examined it with wonder some very cutting remarks from within assured them of their master&apos;s existence, and with many apologies for the abrupt way in which they had abandoned him they righted the <hi>palki</hi> and assisted him out.
+
+<p>The journey was soon resumed and Bose had the satisfaction of arresting the murderer in spite of his ill-timed adventure and forced delay.
+
+
+
+
+<pb n=88>
+<div1 id=ch17>
+<head>An Assam Adventure</head>
+
+<p>Some years ago, an English baron came out to India to enjoy some tiger shooting. He received invitations to many Native States, and was having a right royal time. In the course of his wanderings he came to Assam. In those days, the jungles of Assam swarmed with tigers but a &ldquo;man-eater&rdquo; was very rarely known there.
+
+<p>Sir M. was in a small camp with just two or three other guns, and all were hopeful of &ldquo;bagging&rdquo; a tiger, for the roaring of the lords of the jungle could be heard almost every night. The tents had been pitched on the bank of a river and all round the camp and on the opposite bank was heavy jungle. Wild animals abounded in these jungles and the camp servants did not appreciate the site. No sooner had the Sahebs finished their dinner than the servants disappeared into their tents, and securing themselves within, as strongly as they could, devoutly hoped that the morning light would find them still alive and unharmed.
+
+<p>One evening Sir M. retired to his own tent immediately after dinner. He was very tired but <pb n=89>as he was not sleepy, he made himself comfortable and settled down on a long-sleeved chair with a book. His tent was a small one, with a camp cot, a couple of chairs and a table. On the table stood a reading lamp. M. was soon absorbed in his book and did not notice how the hours fled. The camp became quiet and still. It was a dark close night and the door of his tent stood open, for he was a lover of air. He had read on for some time when his attention was drawn to a movement of his tent wall. It seemed to him as if some one or something was rubbing along the side. He put down his book and got on to his feet to see what it could be. As he was about to step forward the head of a tiger loomed in the doorway, the eyes gleaming brightly. Sir M. stood motionless with surprise and &ldquo;Stripes&rdquo; stepped into the tent. He was a fine specimen of a Royal Bengal tiger, and M. forgot everything in his admiration of the noble animal.
+
+<p>The table with the lamp upon it stood between Sir M. and the tiger, and each stood on either side of it gazing at each other. As the silent seconds passed, Sir M. realized that he was in danger and bethought him of his rifle which was almost within reach of his hand; but he dared not move and so <pb n=90>continued gazing steadfastly at his visitor. The tiger too stood, surveying his vis-a-vis and then began to move round the table. The lamp either attracted or annoyed him and he raised his paw to the table. The weight of the huge paw tilted the table, the lamp toppled and fell with a crash. The terrified tiger gave a mighty roar, turned tail and fled.
+
+<p>The camp was aroused. Everyone shouted and rushed out into the night, armed with some weapon or other. Sir M. related to his brother guns what had happened and they all enjoyed a good laugh and rather envied him for the fine sight he had of such a superb specimen of the kings of the jungle.
+
+
+
+
+<pb n=91>
+<div1 id=ch18>
+<head>A Thrilling Story</head>
+
+<p>One evening, in Assam, a young Englishman was driving along a lonely jungle road. He wished to visit a neighbouring Saheb; and though his servants had warned him that tigers had been frequently seen on that particular road, he had laughed at their fears and told them that the only tiger to be feared was a &ldquo;man-eater&rdquo;, and that there were no &ldquo;man-eating&rdquo; tigers about that district. As usual in the mofussil of India, he was going out to dine and sleep, and his bearer had put up his clothes and his suit case was stowed into the dog-cart.
+
+<p>The road was a good one and considerably wide, for it was the main thoroughfare in the district and along it tea, jute and all other agricultural products were transported to the river for export to other districts of India and also to Europe. Nevertheless it was bordered on either side by dense jungle, and there were few villages in its vicinity. After sunset it was a road little frequented by villagers and it had the reputation of being tiger-haunted.
+
+<pb n=92><p>There was no moon and, as B. had not started much before sunset, darkness soon overtook him on the road. As he had no <hi>syce</hi> with him he got down to light the trap-lamps and jumped in and drove on again very cheerily. He was not far from where he must turn off the main road to the narrow one leading to his friend&apos;s estate, when the pony suddenly took fright at something and bolted. At first B. tried to pull the animal up; but its erect ears and wild snorting showed him that there was cause for alarm. He looked over his shoulder and in the dim starlight discerned the bulk of some animal in pursuit of them. An eerie feeling came over him and he wondered what was going to happen. He sat tight in his seat and let the pony race on. The chase continued and the pony began to show signs of collapse. It was evidently being overcome by fear and, in spite of all B.&apos;s urging, could not keep up the pace, and the pursuing animal gained upon them. B. had just determined to leap from the cart when the pony tripped and fell and B. was shot out of the cart. He fell into the long grass on the side of the road, and had barely collected himself when a dark form sprang upon the pony.
+
+<p>The poor animal neighed with fear but kicked <pb n=93>and fought its foe. B. rolled down the side of the road and began to crawl away through the jungle as fast as he could. Long grass and thorny brambles grew on either side of the road and as it was the dry season every movement of his made a crackling and rustling; and often he fancied he heard an animal in pursuit of him, or he would imagine he was about to meet one coming through the jungle towards him. He pressed on as fast as he could, sometimes crawling and sometimes walking, and at last he saw the glimmer of lights and came to some huts. He shouted to the inmates who came to his assistance.
+
+<p>When they discovered a Saheb in such a plight they were full of concern, helped him to their huts, gave him hot milk to drink and washed his wounds. His clothes were torn and his hands and knees bleeding from his flight through the thorny jungle. The sympathising villagers emptied a hut for him to rest in, and when morning came escorted him to the scene of his mishap.
+
+<p>The mangled remains of his poor pony told him that the wild animal had been a very famished tiger. B. returned to his own bungalow a wiser man, and told his servants that, had he taken their <pb n=94>advice, he would not have suffered such an adventure or the loss of his pony. He rewarded the villagers for their kindness and hospitality and for a long time his escape was the talk of the district.
+
+
+
+
+<pb n=95>
+<div1 id=ch19>
+<head>A Cachar Tiger</head>
+
+<p>In the province of Assam lies a fertile and picturesque valley called Cachar. Shut in on north, south and east by lofty hills, this valley remained hidden for centuries and was never conquered by any of the Mahommedan rulers of India.
+
+<p>Here a race of aboriginal kings held sway, and it was the East India Company who first became masters of this hilly corner of Bengal. In 1830, the last of the old Cachari kings died without heir, and &ldquo;Company Bahadoor&rdquo; took possession of the little kingdom.
+
+<p>In 1855, the discovery of the tea-plant, growing wild in the jungles, opened out a new industry, and soon the low-lying hills, knolls and undulating plains of the little valley became gradually clear of jungle, and covered instead with row after row of carefully-kept and trim tea bushes. To-day acres upon acres of tea are grown in Cachar; and the inland steamers, which ply all through the rainy season up and down the wide-rolling stream of the <pb n=96>river Barak, bring down for export millions of pounds of tea for the &ldquo;cheering cup&rdquo;.
+
+<p>Cachar is rich in forests, and tigers and other wild animals are there in plenty. During the monsoon the jungle animals retreat to the higher levels of the forest-clad hills. But when the rains abate they begin to gradually descend; and when the great &ldquo;hoars&rdquo; or fenlands dry up at the approach of the cold season, numerous tigers take up their winter haunts in the patches of jungle, which grow here and there in the marsh lands, and in the forests which often surround or separate the tea gardens.
+
+<p>It was cold-weather time about forty years ago, and four planters sat talking after dinner in the Manager&apos;s bungalow on a tea garden in Cachar. We will call them M., B., C. and H.
+
+<p>The bungalow, like many bungalows in tea districts, stood on a high hill, the steep sides of which had been terraced and planted with tea. On adjacent but lower hills stood the factory and coolie lines. Everything was quiet and lay wrapped in a heavy fog.
+
+<p>In the verandah near the steps sat the bungalow <hi>chowkidar</hi> (watchman). The charity of the Tea Company had provided him and his fellow-coolies <pb n=97>with blankets. And he wore his in the usual <hi>pachim</hi> (North-West Provinces) style: one end of the blanket is pleated and tied closely with a piece of string, the short part above the cord forming a tuft. The wearer pulls the pleated end of the blanket over his head, the tuft resting on his crown. The sides of the blanket are drawn round the body, and thus the blanket is made to form both a hood and a cloak, in which the wearer hugs himself against the inclemency of the weather.
+
+<p>The <hi>chowkidar</hi> sat on his mat huddled up in his blanket, droning one of the time-honoured <hi>bhajans</hi> (hymns) of India.
+
+<p>Presently he disappeared and, next, piercing yells rent the mist-laden atmosphere. The four Sahebs were in the verandah in a trice, and soon discovered the <hi>chowkidar</hi> returning to the verandah, visibly shaken and without his blanket.
+
+<p>&ldquo;What is the matter, and who shouted?&rdquo; asked the Manager.
+
+<p>&ldquo;Saheb,&rdquo; the <hi>chowkidar</hi> replied in a quavering voice &ldquo;a tiger sprang on me and caught the knot of my blanket.&rdquo;
+
+<p>&ldquo;Here!&rdquo; interrupted the four Englishmen incredulously.
+
+<pb n=98><p>&ldquo;Yes, <hi>Huzoor</hi> (Your Honour), as I sat here against this post the tiger came, seized the knot of my blanket and began to pull. Like lightning I made my plan. I grasped with a strong tight hold the sides of the blanket and holding myself together like a ball I let Lord Tiger pull. He dragged me to the edge of the <hi>tila</hi> (hill). There I suddenly let go the blanket and shouted with all my might. The tiger fell over, down the hill, and is gone.&rdquo;
+
+<p>Sure enough, there were the foot-marks of the tiger, the mark of the drag, and the signs of where &ldquo;Stripes&rdquo; had slipped over and down the terrace.
+
+<p>The tiger had been harrying the coolies for some time and a rumour had got about that he was a man-eater. It was pretty certain that he would come again the next night; so the planters determined to sit up and shoot him.
+
+<p>On the following night after dinner M. B. C. and H. took their positions on the verandah. Each had his loaded gun and all waited patiently for the tiger. Time passed. It was weary work and they dozed.
+
+<p>M.&apos;s dog had wandered off to the kitchen as usual after dinner. After some time it returned hurriedly and ran up the steps of the verandah, <pb n=99>barking in a frightened manner. The dog&apos;s barking woke the four men. B. sat first near the steps and H. not far from him in a dining-room chair.
+
+<p>The dog ran into the dining-room and hid himself under the table and everything again became quiet, and the men waited. Suddenly a hoarse cry paralysed three of them. &ldquo;He&apos;s on me. Shoot.&rdquo;
+
+<p>The tiger had come up on to the verandah and springing at B. caught him by the arm. Then, releasing the arm, he made a spring at his victim&apos;s throat. B. was instantly on his feet and, as the tiger essayed his throat, he rammed his clenched fist into the animal&apos;s mouth. The tiger shook the man&apos;s fist out of its mouth and made another attempt to reach his throat. B. repeated his manoeuvre. This happened three or four times.
+
+<p>In the meantime the other three men dared not shoot for fear of missing the ferocious cat and killing their comrade. H. had the presence of mind to swiftly fix his bayonet, and, rushing towards the tiger, he thrust it in the animal&apos;s side, firing as he did so. The tiger fell backwards off the verandah mortally wounded, but to the amazement <pb n=100>of the Sahebs struggled tip and made another attempt to get at B. He was however too badly wounded and fell back dead.
+
+<p>B.&apos;s hand and arm were terribly mauled, and after medical treatment he had to go home on long leave.
+
+
+
+
+<pb n=101>
+<div1 id=ch20>
+<head>A Maharajah&apos;s Adventures</head>
+
+<p>A Maharajah of Bengal who became a noted sportsman shot his first tiger when he was quite a small boy. When about twelve years of age he went out on a shoot one cold weather on his estate. He was accompanied by some of his relatives, and they encamped in one of the forest bungalows. This bungalow was just an ordinary Assam house built on a <hi>chang</hi> or raised platform. It consisted of a large centre room with a bedroom on either side and a deep verandah in the front, where the servants slept at night. Under large trees, some little distance away, the elephants were chained, and not far off were stables for the horses.
+
+<p>The Maharajah shared his room with a friend, a lad about two years older than himself. One night between ten and eleven o&apos;clock, when all were in bed and asleep after a tiring day and an early dinner, the near roaring of a tiger awakened the camp. In a twinkling the servants had transferred themselves and their bedding from the verandah into the centre room and securely bolted the door. Roar after roar sounded through the night, but the <pb n=102>young Maharajah slept the healthful and deep sleep of tired childhood and the mighty voice of the lord of the jungle did not disturb him. His friend was awakened by the majestic sound and lay trembling with fear; envying his blissfully unconscious companion, until the nearness of the tiger broke down his self-control and, vigorously shaking his bed-fellow, he shouted in his ear: &ldquo;Tiger, tiger!&rdquo;
+
+<p>The young Maharajah awoke, yawned, stretched and listened. The roaring had ceased but under the bungalow they could hear the purring of a tiger as it rubbed itself against a post. The younger and fearless boy laughed with glee and assured his friend that there was no danger of the tiger getting into the bungalow, and that on the morrow they would be easily able to track and shoot it. Soon the sounds of purring and rubbing gave place to others, and the occupants of the bungalow realised that more than one tiger played beneath them. Next day in the jungle near the forest bungalow the party shot a couple of tigers, a tigress and her cubs.
+
+<p>In later years the Maharajah became famous for his shoots and many and varied were his adventures <pb n=103>and experiences. One year he was in camp with a large party and they were out one afternoon after buffaloes. A fine bull was driven out of a patch of thick jungle and faced the guns with defiance in his eyes. He was a grand target and the Maharajah&apos;s finger ached to pull his trigger, but courtesy forbade him and he generously, as always, left the fine prize for his guests. But, one after another, each missed his shot and the noble bull charged past into thicker jungle. As the line of guns attempted to follow, one of them spied a leopard up on a tree looking thoroughly scared. This animal had evidently been disturbed by the commotion in the forest and had been so terrified that it had climbed into a tree for shelter; and there, on a branch, poor &ldquo;Spots&rdquo; fell an easy prey to the sportsmen.
+
+<p>One of the strangest adventures that the Maharajah had was when, returning to camp one evening, he was informed that one of his largest and best elephants, &ldquo;Kennedy&rdquo;, had got stuck in quicksand. In many parts of Assam there are quicksands and quagmires. This particular one chanced to be in a <hi>nala</hi> (stream). The elephant had refused to cross the partially dried-up stream. <pb n=104>Instinct had warned him through the tip of his trunk that danger lurked there, but his <hi>mahout</hi> (driver), anxious to get into camp after a hard day and knowing that across this stream was a short cut, had forced him. They had advanced but a yard or two when the huge animal began to sink, and the more he struggled and strove to extricate himself the deeper he sank. The Maharajah hastened to the spot as soon as he heard of the catastrophe, for &ldquo;Kennedy&rdquo; was a fine and valuable elephant and a steady one for <hi>shikar</hi> (shooting). At the sound of his master&apos;s voice poor &ldquo;Kennedy&rdquo; looked towards the bank, and the Maharajah saw that great tears of anguish were rolling down the poor beast&apos;s face as he bellowed in an agony of fear. The Maharajah directed the men who had gathered around the scene to fell some saplings, which were conveyed to the <hi>nala</hi> by some smaller elephant and pushed into the quagmire towards &ldquo;Kennedy&rdquo;. The poor entrapped animal seemed to understand that efforts were being made to rescue him, and he obeyed his driver&apos;s now soothing voice and held himself still. At last, the combined labours of men and brother-elephants provided a safe footing of submerged saplings and branches; and &ldquo;Kennedy&rdquo; pulled himself out of the <pb n=105>treacherous sand and was escorted back to the camp with great rejoicings.
+
+<p>Not long after this &ldquo;Kennedy&rdquo; distinguished himself in another way, but this time evoked the displeasure and not the pity of his good master. An engineer, named Ashton, had charge of the <hi>feilkhana</hi> (elephant stables) and had once severely punished &ldquo;Kennedy&rdquo;. After the manner of his kind, the elephant bore the memory of the outrage in his heart and waited the opportunity to be revenged. One morning the camp was astir for a shoot. The guests stood ready outside their tents and the elephants were waiting to carry them into the forest. Suddenly &ldquo;Kennedy&rdquo; charged at Ashton, who stood a little apart from the group, and flinging him to the ground began to roll him under his feet. The Maharajah, with wonderful presence of mind, immediately ordered &ldquo;Debraj&rdquo;, a larger and more powerful elephant than &ldquo;Kennedy&rdquo; and his rival in the <hi>feilkhana</hi>, to the rescue. &ldquo;Debraj&apos;s&rdquo; <hi>mahout</hi> ordered him to charge at &ldquo;Kennedy&rdquo;, and, urged forward with voice and prong; &ldquo;Debraj&rdquo; did so with a good will. When &ldquo;Kennedy&rdquo; saw his ancient enemy charging at him, he forgot his grudge against Ashton, and, considering that &ldquo;he who <pb n=106>fights and runs away lives to fight another day&rdquo;, he bolted, with his trunk in the air. Ashton was picked up from the dust very much shaken by his rolling and fright but, to the astonishment of every one, in no way injured.
+
+<p>During one of his shooting expeditions, the Maharajah and his companions decided one night that they would go out on foot at the very break of dawn and see the animal world in the jungle; and they were well rewarded for their adventurous spirit. In a glade of the forest they had a magnificent sight of a large herd of bison peacefully grazing in the dewy grass. They could hear tigers and bears passing back through the jungles to their dens in the deeper forest, and as the men stood there admiring the grand heads of the bison a monstrous tiger passed along quite close to one of the party, the Maharajah&apos;s brother-in-law. On the bank of a river they came upon a nest of young pythons. The guests thought it was a curious mound; but the Maharajah recognised the reared heads of the young snakes and told his friends what the heap was. When they came closer, they could see that the long slimy bodies were all twisted together; and with an uncanny feeling, the sportsmen watched these <pb n=107>serpents uncoil themselves from each other and glide away and disappear through the grass.
+
+<p>Once, after a long and fruitless day in the jungles, the Maharajah decided he would try his luck stalking some deer that he spied on the opposite side of a narrow strip of jungle. He accordingly left his elephant and began to creep through the long dry bramble-choked grass with his rifle in his hand. As he pushed his way through the thick jungle he fancied he heard an animal breathing and then something crackled. Intent on the deer before him, he concluded that he had broken a twig or a branch with the end of his rifle and pushed on. As he emerged from the thicket on the opposite side from where he had entered, he came face to face with a group of shepherds. They stared at him in amazement and then, recognising him as their Maharajah, fell at his feet in rapturous joy. Accustomed as he was to demonstrations from his people, their abandon struck him as something unusual, and he was about to question them when they exclamed: &ldquo;<hi>Hoozoor, Dharmabatar</hi>, (Your Honor, Royal Master,) how did you come in safety through that jungle?&rdquo; He smiled at their wonderment and was about to chide them gently when they <pb n=108>continued: &ldquo;An immense tiger has just slain one of our cows and dragged it into that very jungle from which Your Honor has emerged.&rdquo; The Maharajah now understood that the sound he had heard as he pushed his way through the jungle was the tiger enjoying a feed of his kill, and he felt thankful that he had not stumbled directly upon it. Like the keen sportsman he was, he signalled his elephant and, mounting it, secured the feasting tiger with an easy shot.
+
+<p>One cold season, the Viceroy was enjoying a shoot on the Maharajah&apos;s estates. One evening, as they were dressing for dinner, there came through the stillness of the restful air the &ldquo;twitter&rdquo; of a tiger. Do many of my readers know what the &ldquo;twitter&rdquo; of a tiger is? It is a sound the Monarch of the Jungle makes and it is just like the twitter of a bird;&mdash;in fact, some declare it <hi>is</hi> only the twitter of a bird. Well, on this particular evening, the tiger must have been passing quite close to the camp, for his &ldquo;twitter&rdquo; was clear and unmistakeable. The Maharajah, with his usual courtesy, immediately bethought himself of his guests, and invited Their Excellencies to come out into the open and listen to the novel sound. They did, and very <pb n=109>pleased and proud they were when they heard the tiger&apos;s &ldquo;twitter&rdquo; clearly and distinctly through the gathering shade and stillness of the darkening night.
+
+<p>The shooting camps were invariably pitched on the bank of a river or stream. One evening, two of the servants crossed the shallow stream in front of the camp to enjoy some fishing. They found a suitable place behind a mound and here they sat quietly watching their lines. The afternoon hours passed swiftly and the sun was nearing the horizon when their attention was simultaneously drawn to a sound above their heads. Looking up, to their horror, they saw an immense tiger just above them. One of them shivered with terror and, clutching his companion, said in a hoarse whisper: &ldquo;Our hour has come.&rdquo; The other whispered back: &ldquo;Keep perfectly still and quiet.&rdquo; Breathless, the two watched the huge tiger descend the bank and pass majestically to the edge of the water where he stopped to quench his thirst. It seemed to the two trembling men that it took the Lord of the Jungle fully half an hour to drink his fill. Then, as slowly and impressively, the tiger turned from the stream and ascended the bank. When he reached the top <pb n=110>he stood there, gazing before him either as if admiring the scenery or contemplating a meal off one of the men. The pair scarcely dared to breathe and wild schemes of taking to their heels to gain the centre of the stream and swim down the river shot through their brains. At last the tiger slowly turned away from the river and disappeared into the forest. Then, after some time, the frightened servants hurried across the stream back to camp, and told the Maharajah of their terrible experience. The footprints of the animal corroborated their story and their asseveration that they had seen a very very big tiger.
+
+<p>During one of the shoots, the <hi>shikaris</hi> (native sportsmen) brought news that a rhino had been seen in a certain jungle. The guests were much excited and a beat was organised for the next day. The morning dawned and all set out and were soon posted to their various positions. The front &ldquo;stop&rdquo; guns were on the bank of a river. The Maharajah was in the beating line. When about half way through the piece of jungle he noticed that one of his brother guns looked disappointed. He accordingly asked &ldquo;What&apos;s up?&rdquo; The guest answered that he thought that a large animal had broken back. However <pb n=111>nothing was discovered and as it was mid-day a halt for lunch was considered desirable. A spot was soon selected and the signal given and the lines broke up. Just as the foremost elephants were about to kneel to permit their riders to dismount, there arose from the &ldquo;stop&rdquo; elephants a cry of &ldquo;Tiger&rdquo;. In the jungle, quite close to one of the &ldquo;stop&rdquo; guns, a tiger was enjoying a feed of a wild pig; and as the elephant turned to join the others, he almost trod on the tiger. In a moment the line was re-organised, but the surprised tiger, finding itself surrounded by foes, turned tail and ran down the bank of the river. The stream was nearly dry and the bed was very shingly, and as the startled tiger picked its way gingerly across the pebbles and pools of water it looked like a stranded cat. It had not progressed very far when a well-directed shot laid it low; and with this unexpected prize the party sat down to lunch in excellent spirits. As rhino generally fight shy of elephants, they did not think there was much use continuing the beat after lunch. So they decided that they should make tracks for home and have general shooting. General shooting means that there is no beating line. A long <pb n=112>straight line of march is formed, and each gun elephant is in between the pad or beating elephants. The Maharajah was almost the last gun in the line. Nearly all were out of the jungle when his keen and practised eye noticed a small pad elephant jib at something as they passed through a piece of jungle. &ldquo;Did your elephant refuse to come through?&rdquo; he questioned the <hi>mahout</hi> of the small elephant. &ldquo;Yes, Maharajah, he smelt something in the jungle,&rdquo; the man replied. &ldquo;Beat this piece of jungle&rdquo;, the Maharajah quickly ordered the pad elephants with him. They beat it and drove forth a rhino which fell dead to the Maharajah&apos;s gun. Before His Highness had time to take up his other rifle, a second galloped out of the jungle and charged straight at the Maharajah&apos;s elephant. The elephant spun round to avoid the furious onslaught and in the meantime the Maharajah managed to raise his gun and, getting in his shot in spite of the gyrations of the elephant, laid out rhino No. 2 in grand style to the applause of his companions.
+
+<p>Coming back to camp in the dusk one evening, the Maharajah, who had wonderful eyesight, thought he saw a tiger lying still in an open field. <pb n=113>He raised his gun and whispered to his <hi>mahout</hi>. As they came nearer, the tiger&mdash;for tiger it was&mdash;raised itself to its feet and prepared to spring at the elephant. Too late! Snap went the Maharajah&apos;s trigger and the royal beast lay dead.
+
+<p>These are but a few of the shooting adventures of a sportsman-Maharajah who has gone on the long journey from life to the greater life beyond, but whose memory lives in the annals of Bengal as a keen and successful shot.
+
+
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
